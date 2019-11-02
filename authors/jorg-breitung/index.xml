@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jörg Breitung | Benjamin Born</title>
+    <link>https://BenjaminBorn.github.io/authors/jorg-breitung/</link>
+      <atom:link href="https://BenjaminBorn.github.io/authors/jorg-breitung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jörg Breitung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
+      <title>Jörg Breitung</title>
+      <link>https://BenjaminBorn.github.io/authors/jorg-breitung/</link>
+    </image>
+    
+    <item>
+      <title>Testing for Serial Correlation in Fixed-Effects Panel Data Models</title>
+      <link>https://BenjaminBorn.github.io/publication/bornbreitung_serialcorr_2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bornbreitung_serialcorr_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Regression-based Tests for Spatial Dependence</title>
+      <link>https://BenjaminBorn.github.io/publication/bornbreitung_spatial_2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bornbreitung_spatial_2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

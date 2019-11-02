@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Benjamin Born</title>
+    <link>https://BenjaminBorn.github.io/publication_types/3/</link>
+      <atom:link href="https://BenjaminBorn.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://BenjaminBorn.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>The worst of both worlds: Fiscal policy and fixed exchange rates</title>
+      <link>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable Genius? The Macroeconomic Impact of Trump</title>
+      <link>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-driven Business Cycles: Assessing the Markup Channel</title>
+      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

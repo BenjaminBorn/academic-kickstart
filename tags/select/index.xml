@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>select | Benjamin Born</title>
+    <link>https://BenjaminBorn.github.io/tags/select/</link>
+      <atom:link href="https://BenjaminBorn.github.io/tags/select/index.xml" rel="self" type="application/rss+xml" />
+    <description>select</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 22:11:49 +0100</lastBuildDate>
+    <image>
+      <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
+      <title>select</title>
+      <link>https://BenjaminBorn.github.io/tags/select/</link>
+    </image>
+    
+    <item>
+      <title>The Costs of Economic Nationalism: Evidence from the Brexit Experiment</title>
+      <link>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 22:11:49 +0100</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Austerity Pay Off?</title>
+      <link>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 21:56:04 +0100</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Varying Business Volatility and the Price Setting of Firms</title>
+      <link>https://BenjaminBorn.github.io/publication/bbeg_firmunc_2019/</link>
+      <pubDate>Thu, 31 Oct 2019 17:30:54 +0100</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bbeg_firmunc_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Matters: The Real Effects of Volatility Shocks: Comment</title>
+      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_comment_2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_comment_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Risk and the Business Cycle</title>
+      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_policyrisk_2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_policyrisk_2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

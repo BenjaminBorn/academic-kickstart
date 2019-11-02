@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco D’Ascanio | Benjamin Born</title>
+    <link>https://BenjaminBorn.github.io/authors/francesco-dascanio/</link>
+      <atom:link href="https://BenjaminBorn.github.io/authors/francesco-dascanio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco D’Ascanio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
+      <title>Francesco D’Ascanio</title>
+      <link>https://BenjaminBorn.github.io/authors/francesco-dascanio/</link>
+    </image>
+    
+    <item>
+      <title>The worst of both worlds: Fiscal policy and fixed exchange rates</title>
+      <link>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

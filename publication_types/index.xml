@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Benjamin Born</title>
+    <link>https://BenjaminBorn.github.io/publication_types/</link>
+      <atom:link href="https://BenjaminBorn.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 22:11:49 +0100</lastBuildDate>
+    <image>
+      <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://BenjaminBorn.github.io/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>2</title>
+      <link>https://BenjaminBorn.github.io/publication_types/2/</link>
+      <pubDate>Fri, 01 Nov 2019 22:11:49 +0100</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://BenjaminBorn.github.io/publication_types/3/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
