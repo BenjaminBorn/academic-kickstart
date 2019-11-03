@@ -5,7 +5,7 @@
     <link>https://BenjaminBorn.github.io/authors/</link>
       <atom:link href="https://BenjaminBorn.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 22:11:49 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 21:56:04 +0100</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Benjamin Born</title>
       <link>https://BenjaminBorn.github.io/authors/benjamin-born/</link>
-      <pubDate>Fri, 01 Nov 2019 22:11:49 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2019 21:56:04 +0100</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/benjamin-born/</guid>
       <description></description>
     </item>
@@ -23,24 +23,8 @@
     <item>
       <title>Gernot J. Müller</title>
       <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
-      <pubDate>Fri, 01 Nov 2019 22:11:49 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2019 21:56:04 +0100</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moritz Schularick</title>
-      <link>https://BenjaminBorn.github.io/authors/moritz-schularick/</link>
-      <pubDate>Fri, 01 Nov 2019 22:11:49 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/moritz-schularick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Petr Sedlacek</title>
-      <link>https://BenjaminBorn.github.io/authors/petr-sedlacek/</link>
-      <pubDate>Fri, 01 Nov 2019 22:11:49 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/petr-sedlacek/</guid>
       <description></description>
     </item>
     
@@ -53,9 +37,33 @@
     </item>
     
     <item>
+      <title>Francesco D’Ascanio</title>
+      <link>https://BenjaminBorn.github.io/authors/francesco-dascanio/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/francesco-dascanio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moritz Schularick</title>
+      <link>https://BenjaminBorn.github.io/authors/moritz-schularick/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/moritz-schularick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petr Sedlacek</title>
+      <link>https://BenjaminBorn.github.io/authors/petr-sedlacek/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/petr-sedlacek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Christian Grimme</title>
       <link>https://BenjaminBorn.github.io/authors/christian-grimme/</link>
-      <pubDate>Thu, 31 Oct 2019 17:30:54 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/christian-grimme/</guid>
       <description></description>
     </item>
@@ -63,7 +71,7 @@
     <item>
       <title>Rüdiger Bachmann</title>
       <link>https://BenjaminBorn.github.io/authors/rudiger-bachmann/</link>
-      <pubDate>Thu, 31 Oct 2019 17:30:54 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/rudiger-bachmann/</guid>
       <description></description>
     </item>
@@ -71,16 +79,8 @@
     <item>
       <title>Steffen Elstner</title>
       <link>https://BenjaminBorn.github.io/authors/steffen-elstner/</link>
-      <pubDate>Thu, 31 Oct 2019 17:30:54 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/steffen-elstner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francesco D’Ascanio</title>
-      <link>https://BenjaminBorn.github.io/authors/francesco-dascanio/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/francesco-dascanio/</guid>
       <description></description>
     </item>
     
