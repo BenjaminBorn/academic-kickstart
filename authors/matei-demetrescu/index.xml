@@ -6,12 +6,6 @@
       <atom:link href="https://BenjaminBorn.github.io/authors/matei-demetrescu/index.xml" rel="self" type="application/rss+xml" />
     <description>Matei Demetrescu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
-      <title>Matei Demetrescu</title>
-      <link>https://BenjaminBorn.github.io/authors/matei-demetrescu/</link>
-    </image>
-    
     <item>
       <title>Recursive Adjustment for General Deterministic Components and Improved Tests for the Cointegration Rank</title>
       <link>https://BenjaminBorn.github.io/publication/borndemetrescu_coint_2015/</link>

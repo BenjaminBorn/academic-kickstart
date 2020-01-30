@@ -5,41 +5,19 @@
     <link>https://BenjaminBorn.github.io/authors/</link>
       <atom:link href="https://BenjaminBorn.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 21:56:04 +0100</lastBuildDate>
-    <image>
-      <url>https://BenjaminBorn.github.io/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>https://BenjaminBorn.github.io/authors/</link>
-    </image>
-    
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Benjamin Born</title>
       <link>https://BenjaminBorn.github.io/authors/benjamin-born/</link>
-      <pubDate>Fri, 01 Nov 2019 21:56:04 +0100</pubDate>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/benjamin-born/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gernot J. Müller</title>
-      <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
-      <pubDate>Fri, 01 Nov 2019 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Johannes Pfeifer</title>
-      <link>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</link>
-      <pubDate>Fri, 01 Nov 2019 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christian Bayer</title>
       <link>https://BenjaminBorn.github.io/authors/christian-bayer/</link>
-      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/christian-bayer/</guid>
       <description></description>
     </item>
@@ -47,8 +25,32 @@
     <item>
       <title>Ralph Luetticke</title>
       <link>https://BenjaminBorn.github.io/authors/ralph-luetticke/</link>
-      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/ralph-luetticke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gernot J. Müller</title>
+      <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Pfeifer</title>
+      <link>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanne Wellmann</title>
+      <link>https://BenjaminBorn.github.io/authors/susanne-wellmann/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/susanne-wellmann/</guid>
       <description></description>
     </item>
     
@@ -162,7 +164,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Benjamin Born is an Associate Professor of Macroeconomics at the Frankfurt School of Finance &amp;amp; Management and affiliated with CEPR and CESifo. In addition, he serves as a research professor at the ifo Institute in Munich and as an associate editor at Macroeconomic Dynamics. He holds a Ph.D. in Economics from the University of Bonn.&lt;/p&gt;
-
 &lt;p&gt;Full &lt;a href=&#34;https://BenjaminBorn.github.io/files/cv_born.pdf&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
