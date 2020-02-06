@@ -5,12 +5,42 @@
     <link>https://BenjaminBorn.github.io/authors/</link>
       <atom:link href="https://BenjaminBorn.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://BenjaminBorn.github.io/authors/</link>
+    </image>
+    
     <item>
       <title>Benjamin Born</title>
       <link>https://BenjaminBorn.github.io/authors/benjamin-born/</link>
-      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/benjamin-born/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gernot J. Müller</title>
+      <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Pfeifer</title>
+      <link>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanne Wellmann</title>
+      <link>https://BenjaminBorn.github.io/authors/susanne-wellmann/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/authors/susanne-wellmann/</guid>
       <description></description>
     </item>
     
@@ -27,30 +57,6 @@
       <link>https://BenjaminBorn.github.io/authors/ralph-luetticke/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/authors/ralph-luetticke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gernot J. Müller</title>
-      <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Johannes Pfeifer</title>
-      <link>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Susanne Wellmann</title>
-      <link>https://BenjaminBorn.github.io/authors/susanne-wellmann/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/authors/susanne-wellmann/</guid>
       <description></description>
     </item>
     
