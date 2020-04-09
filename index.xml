@@ -5,12 +5,28 @@
     <link>https://BenjaminBorn.github.io/</link>
       <atom:link href="https://BenjaminBorn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Born</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Benjamin Born</title>
       <link>https://BenjaminBorn.github.io/</link>
     </image>
+    
+    <item>
+      <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
+      <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-driven Business Cycles: Assessing the Markup Channel</title>
+      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Different no more: Country spreads in advanced and emerging economies</title>
@@ -65,14 +81,6 @@
       <link>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty-driven Business Cycles: Assessing the Markup Channel</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</guid>
       <description></description>
     </item>
     
