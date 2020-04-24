@@ -5,7 +5,7 @@
     <link>https://BenjaminBorn.github.io/publication_types/3/</link>
       <atom:link href="https://BenjaminBorn.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -15,8 +15,16 @@
     <item>
       <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
       <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Macroeconomic Impact of Trump</title>
+      <link>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Macroeconomic Impact of Trump</title>
-      <link>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</guid>
       <description></description>
     </item>
     
