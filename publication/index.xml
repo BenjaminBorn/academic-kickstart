@@ -5,7 +5,7 @@
     <link>https://BenjaminBorn.github.io/publication/</link>
       <atom:link href="https://BenjaminBorn.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications and Working Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications and Working Papers</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
-      <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
+      <title>Do lockdowns work? A counterfactual for Sweden</title>
+      <link>https://BenjaminBorn.github.io/publication/bdm_lockdown_2020/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bdm_lockdown_2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Macroeconomic Impact of Trump</title>
-      <link>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</guid>
+      <title>Different no more: Country spreads in advanced and emerging economies</title>
+      <link>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
+      <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
       <description></description>
     </item>
     
@@ -37,18 +45,18 @@
     </item>
     
     <item>
-      <title>Different no more: Country spreads in advanced and emerging economies</title>
-      <link>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shocks, Frictions, and Inequality in US Business Cycles</title>
       <link>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Macroeconomic Impact of Trump</title>
+      <link>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</guid>
       <description></description>
     </item>
     
