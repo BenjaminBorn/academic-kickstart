@@ -5,12 +5,20 @@
     <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
       <atom:link href="https://BenjaminBorn.github.io/authors/gernot-j.-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Gernot J. Müller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Gernot J. Müller</title>
       <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
     </image>
+    
+    <item>
+      <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
+      <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Do lockdowns work? A counterfactual for Sweden</title>
@@ -33,14 +41,6 @@
       <link>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</link>
       <pubDate>Fri, 01 May 2020 21:56:04 +0100</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
-      <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
       <description></description>
     </item>
     
