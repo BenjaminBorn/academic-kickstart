@@ -5,12 +5,20 @@
     <link>https://BenjaminBorn.github.io/publication/</link>
       <atom:link href="https://BenjaminBorn.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications and Working Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications and Working Papers</title>
       <link>https://BenjaminBorn.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Uncertainty-driven Business Cycles: Assessing the Markup Channel</title>
+      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The lockdown effect: A counterfactual for Sweden</title>
@@ -57,14 +65,6 @@
       <link>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</link>
       <pubDate>Fri, 01 May 2020 21:56:04 +0100</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty-driven Business Cycles: Assessing the Markup Channel</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</guid>
       <description></description>
     </item>
     
