@@ -1,296 +1,178 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://BenjaminBorn.github.io/publication_types/3/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/benjamin-born/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bde_news_2020/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/jonas-dovern/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication_types/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/zeno-enders/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/christian-bayer/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/ralph-luetticke/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/alexander-dietrich/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BenjaminBorn.github.io/publication/bdm_lockdown_2020/</loc>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/publication/bdm_lockdown_2021/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication_types/2/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/tags/select/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/tags/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bornpfeifer_wagepc_2018/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bbl_fiscal_2020/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/susanne-wellmann/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</loc>
     <lastmod>2020-05-01T21:56:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/moritz-schularick/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/petr-sedlacek/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bmss_trump_2019/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/francesco-dascanio/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/christian-grimme/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/rudiger-bachmann/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/steffen-elstner/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bbeg_firmunc_2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/sebastian-breuer/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bbe_unc_2018/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/jorg-breitung/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bornbreitung_serialcorr_2016/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/matei-demetrescu/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/borndemetrescu_coint_2015/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bornpfeifer_comment_2014/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bornpfeifer_policyrisk_2014/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bef_fscom_2014/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/marcel-fratzscher/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/michael-ehrmann/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/alexandra-peter/</loc>
     <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bpp_fiscalnews_2013/</loc>
     <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bjm_fx_2013/</loc>
     <lastmod>2013-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/falko-juessen/</loc>
     <lastmod>2013-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bef_fscom_2012/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bornmueller_qva_2012/</loc>
     <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bornbreitung_spatial_2011/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/talk/</loc>
   </url>
-  
 </urlset>
