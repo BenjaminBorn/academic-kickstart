@@ -3,7 +3,7 @@
 
 title: "The Macroeconomic Impact of Trump"
 authors: ["Benjamin Born", "Gernot J. Müller", "Moritz Schularick", "Petr Sedlacek"]
-date: 2021-03-22
+date: 2021-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,8 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP13798
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13798"
+- name: Published Version
+  url: "https://doi.org/10.1080/01442872.2021.1909718"
+# - name: CEPR DP13798
+#   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13798"
 - name: Ungated
   url: files/BMSS_Trump_March2021.pdf
 - name: VoxEU
