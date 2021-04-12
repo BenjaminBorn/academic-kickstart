@@ -3,7 +3,7 @@
 
 title: "The Liquidity Channel of Fiscal Policy"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2020-06-12
+date: 2021-04-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We provide evidence that expansionary fiscal policy lowers the return difference between more and less liquid assets---the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice, in which public debt affects private liquidity. In this environment, the short-run fiscal multiplier is amplified by the countercyclical liquidity premium. This liquidity channel stabilizes investment and crowds in consumption. We then quantify the long-run effects of higher public debt, and find a sizable decline of the liquidity premium, increasing the fiscal burden of debt, but little crowding out of capital."
+abstract: "We provide evidence that expansionary fiscal policy lowers  return differences between public debt and less liquid assets---the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian model with incomplete markets and portfolio choice, in which public debt affects private liquidity.  This liquidity channel stabilizes fixed-capital investment. We then quantify the long-run effects of higher public debt and find little crowding out of capital, but a sizable decline of the liquidity premium, which increases the fiscal burden of debt. We show that the revenue-maximizing level of public debt is positive and has increased to 60 percent of GDP post-2010."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14883
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14883"
 - name: Ungated
-  url: files/BBL_Fiscal_Liquidity_June_2020.pdf
+  url: files/BBL_Fiscal_Liquidity_April_2021.pdf
 #- name: VoxEU
 #  url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
 
