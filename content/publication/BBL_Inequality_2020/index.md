@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "***American Economic Review***, revise & resubmit"
 publication_short: ""
 
 abstract: "How much does inequality matter for the business cycle and vice versa? Using a Bayesian likelihood approach, we estimate a heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice between liquid and illiquid assets. Even when the model is estimated  on aggregate data only and with only a set of shocks and frictions along the lines of Smets and Wouters (2007), it reproduces observed US inequality dynamics.  In other words, the model is successful in simultaneously accounting for cycle and distribution. Output stabilization via monetary or fiscal policy also stabilizes inequality."
