@@ -3,7 +3,7 @@
 
 title: "Expectation dispersion, uncertainty, and the reaction to news"
 authors: ["Benjamin Born", "Jonas Dovern", "Zeno Enders"]
-date: 2020-12-20
+date: 2021-05-03
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Releases of key macroeconomic indicators are closely watched by financial markets. We investigate the role of expectation dispersion and economic uncertainty for the stock-market reaction to indicator releases. We find that the strength of the financial market response to news decreases with the preceding dispersion in expectations about the indicator value. Uncertainty, in contrast, increases the response. We rationalize our findings in a model of imperfect information. In the model, dispersion results from a perceived weak link between macroeconomic indicators and fundamentals that reduces the informational content of indicators, while higher fundamental uncertainty makes this informational content more valuable."
+abstract: "Releases of key macroeconomic indicators are closely watched by financial markets. We investigate the role of expectation dispersion and economic uncertainty for the stock-market reaction to indicator releases. We find that the strength of the financial market response to news decreases with the preceding dispersion in expectations about the indicator value. Higher uncertainty, in contrast, increases the response. We ratio- nalize our findings in a model of imperfect information. In the model, dispersion results from a perceived weak link between macroeconomic indicators and fundamentals that reduces the informational content of indicators, while higher fundamental uncertainty makes this informational content more valuable."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP15581
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15581"
 - name: Ungated
-  url: files/BDE_News_Dec2020.pdf
+  url: files/BDE_News_May2021.pdf
 # - name: VoxEU
 #   url: "https://voxeu.org/article/impact-us-coronavirus-stimulus-package"
 
