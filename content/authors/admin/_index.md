@@ -73,6 +73,6 @@ email: ""
 - Visitors -->
 ---
 
-Benjamin Born is an Associate Professor of Macroeconomics at the Frankfurt School of Finance & Management and affiliated with CEPR and CESifo. In addition, he serves as research director at the ifo Institute's Center for Macroeconomics and Surveys and as an associate editor at the European Economic Review and Macroeconomic Dynamics. He holds a Ph.D. in Economics from the University of Bonn.
+Benjamin Born is an Associate Professor of Macroeconomics at the Frankfurt School of Finance & Management and affiliated with CEPR and CESifo. In addition, he serves as research director at the ifo Institute's Center for Macroeconomics and Surveys and as an associate editor at the European Economic Review. He holds a Ph.D. in Economics from the University of Bonn.
 
 Full {{% staticref "files/cv_born.pdf" %}}CV{{% /staticref %}}.
