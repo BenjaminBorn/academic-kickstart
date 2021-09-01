@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zeno Enders | Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/zeno-enders/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/zeno-enders/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zeno Enders</description>
+    <title>Knut Niemann | Benjamin Born</title>
+    <link>https://BenjaminBorn.github.io/authors/knut-niemann/</link>
+      <atom:link href="https://BenjaminBorn.github.io/authors/knut-niemann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knut Niemann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 21:56:04 +0100</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Zeno Enders</title>
-      <link>https://BenjaminBorn.github.io/authors/zeno-enders/</link>
+      <title>Knut Niemann</title>
+      <link>https://BenjaminBorn.github.io/authors/knut-niemann/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</link>
       <pubDate>Wed, 01 Sep 2021 21:56:04 +0100</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expectation dispersion, uncertainty, and the reaction to news</title>
-      <link>https://BenjaminBorn.github.io/publication/bde_news_2020/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bde_news_2020/</guid>
       <description></description>
     </item>
     
