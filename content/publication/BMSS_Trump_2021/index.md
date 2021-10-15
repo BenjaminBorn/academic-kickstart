@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Policy Studies***, forthcoming"
+publication: "***Policy Studies***, 42(5-6), pp. 580-591"
 publication_short: ""
 
 abstract: Donald Trump was President of the United States from January 2017 to January 2021. During that time, except for the period since spring 2020 when the COVID-19 pandemic took its toll on economic activity, the US economy has been doing very well according to key indicators like the unemployment rate and GDP growth. Does Trump deserve credit for the booming economy? To address this question, we develop a counterfactual scenario for how the US economy would have evolved without Trump—we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the performance of the US economy during Trump’s Presidency to this synthetic “doppelganger”. There is little evidence for a Trump effect.
