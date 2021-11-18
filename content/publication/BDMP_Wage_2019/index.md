@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "***Journal of Political Economy***, revise & resubmit"
 publication_short: ""
 
 abstract: "In economies with fixed exchange rates, the adjustment to government spending shocks is asymmetric. A fiscal expansion appreciates the real exchange rate but does not stimulate output. A fiscal contraction does not alter the exchange rate, but lowers output. We develop these insights in a two-sector model of a small open economy with downward nominal wage rigidity. We establish new empirical evidence that supports the predictions of the model along several dimensions: not only does the exchange rate regime shape the fiscal transmission mechanism as predicted by the model&mdash;in doing so it also interacts with economic slack and inflation."
