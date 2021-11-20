@@ -35,8 +35,8 @@ links:
   url: "https://www.nber.org/papers/w29442"
 - name: Ungated
   url: files/BBGKLW_Unconventional_Fiscal_Policy_Oct2021.pdf
-# - name: VoxEU
-#   url: "https://voxeu.org/article/public-debt-and-economic-recovery"
+- name: VoxEU
+  url: "https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy"
 - name: Feature @ BFI
   url: "https://bfi.uchicago.edu/insight/finding/a-temporary-vat-cut-as-unconventional-fiscal-policy/"
 
