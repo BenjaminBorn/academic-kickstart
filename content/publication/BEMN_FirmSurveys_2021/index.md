@@ -3,7 +3,7 @@
 
 title: "Firm expectations about production and prices: Facts, determinants, and effects"
 authors: ["Benjamin Born", "Zeno Enders", "Gernot J. Müller", "Knut Niemann"]
-date: 2021-09-01T21:56:04+01:00
+date: 2022-01-31T21:56:04+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "***Handbook of Economic Expectations***, Elsevier, in preparation"
 publication_short: ""
 
-abstract: "This chapter revisits recent work on firm expectations about firm-specific developments regarding future production and prices. We focus on existing studies based on survey data that provide a direct measure of expectations. First, we provide an overview of existing studies and revisit robust empirical observations for the ifo survey of German firms. This allows us to establish five facts regarding firm expectations and expectation errors. Second, we use the same data set to revisit key results regarding the formation of firm expectations and their effects. Firm expectations react strongly to firm-specific developments, aggregate variables are less important. There is also strong evidence that firm decisions are driven by firm expectations, both in terms of first and second moments."
+abstract: "This chapter revisits survey evidence about firm expectations, with a particular focus on firms' production and prices. We aim at synthesizing the evidence established on the basis of various firm surveys from different countries. We complement our discussion of existing work with new evidence based on the ifo Survey of German firms. This allows us, first, to put together five stylized facts regarding firm expectations and expectation errors. In addition, we present new evidence regarding the stickiness of firm expectations. Second, we use the same data set to revisit key results regarding the formation of firm expectations. Firm expectations react strongly to firm-specific developments, whereas aggregate variables are less important. Third, we summarize the evidence on how firm expectations drive firm decisions."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -33,8 +33,10 @@ featured: false
 links:
 # - name: Published Version
 #   url: "https://doi.org/10.1162/rest_a_00844"
-- name: Draft
-  url: files/BEMN_2021_firm_surveys.pdf
+- name: Chapter
+  url: files/BEMN_2022_Chap15_FirmExp.pdf
+- name: Online Appendix
+  url: files/BEMN2022_handbook_webappendix.pdf
 # - name: Fiscal Shock Series
 #- name: Earlier CEPR DP10425
 #  url: "http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10425"
