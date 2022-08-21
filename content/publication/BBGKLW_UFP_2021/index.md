@@ -3,7 +3,7 @@
 
 title: "A Temporary VAT Cut as Unconventional Fiscal Policy"
 authors: ["Rüdiger Bachmann", "Benjamin Born", "Olga Goldfayn-Frank", "Georgi Kocharkov", "Ralph Luetticke", "Michael Weber"]
-date: 2021-10-27
+date: 2022-08-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We exploit the unexpected announcement of an immediate, temporary VAT cut in Germany in the second half of 2020 as a natural experiment to study the spending response to unconventional fiscal policy. We use survey and scanner data on households’ consumption expenditures and their perceived pass-through of the tax change into prices to quantify its effects. The temporary VAT cut led to a substantial relative increase in durable spending of 36% for individuals with a high perceived pass-through. Semi- and non-durable spending also increased. According to our preferred estimates, the VAT policy increased aggregate consumption spending by 34 billion Euros."
+abstract: "We exploit the temporary VAT cut in Germany in the second half of 2020 as a natural experiment to study the spending response to unconventional fiscal policy. We use survey and scanner data on households’ consumption expenditures and their perceived pass-through of the tax change into prices to quantify the effects of this VAT policy. The temporary VAT cut led to a relative increase in durable spending of 32 percent for individuals with a high perceived pass-through. Semi- and non-durable spending also increased. The VAT policy increased aggregate consumption spending by 23 billion Euros, or 1.4 percent."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: NBER WP29442
   url: "https://www.nber.org/papers/w29442"
 - name: Ungated
-  url: files/BBGKLW_Unconventional_Fiscal_Policy_Oct2021.pdf
+  url: files/BBGKLW_Unconventional_Fiscal_Policy_Aug2022.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy"
 - name: Feature @ BFI

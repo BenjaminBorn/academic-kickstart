@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "How economic expectations react to news: Evidence from German firms"
+title: "Firm Expectations and News: Micro v Macro"
 authors: ["Benjamin Born", "Zeno Enders", "Manuel Menkhoff", "Gernot J. Müller", "Knut Niemann"]
-date: 2021-09-12T21:56:04+01:00
+date: 2022-08-18
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "How do firms adjust their expectations as new information arrives? The response of forecast errors to news provides useful insights: if firms process news immediately and correctly, news will not predict forecast errors. Yet we find that micro news, that is, news regarding firm-specific developments, give rise to negative forecast errors. Instead, macro news induce positive forecast errors. This implies that expectations overreact to micro news, but underreact to macro news. We establish these results for a large survey of German firms and put forward a general equilibrium model with dispersed information and overconfidence to rationalize the evidence. In the model, overconfidence raises the output dispersion across firms but dampens aggregate fluctuations. "
+abstract: "How do expectations about the economy adjust to news? In this paper, we turn to firm expectations about their production and establish that the type of news matters - firm expectations overreact to micro news but underreact to macro news. We obtain these results based on a large survey of firm expectations. We define micro news as new information about firm-specific developments, while macro news are surprise innovations to an aggregate indicator. In violation of the full-information rational expectation hypothesis, both type of news predict forecast errors. But while micro news predict negative forecast errors, macro news predict positive forecast errors. We show that a general equilibrium model can rationalize the patters in the data once we assume that firms suffer from ``island illusion''."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 # - name: Published Version
 #   url: "https://doi.org/10.1162/rest_a_00844"
 - name: Working Paper
-  url: files/BEMMN_MicroMacroNews_Sep2021.pdf
+  url: files/BEMMN_MicroMacroNews_Aug2022.pdf
 # - name: Fiscal Shock Series
 #- name: Earlier CEPR DP10425
 #  url: "http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10425"
