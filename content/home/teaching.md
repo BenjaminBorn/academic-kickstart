@@ -18,6 +18,7 @@ header:
 
 * Macroeconomics (B.Sc.)
 * Global Economy (Bocconi@FrankfurtSchool EMBA)
+* Advanced Management Program (Exec. Education)
 
 #### Past Teaching
 
