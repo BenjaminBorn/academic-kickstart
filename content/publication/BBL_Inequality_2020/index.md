@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: CEPR DP14364
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14364"
+  url: "https://cepr.org/publications/dp14364"
 - name: Ungated
   url: files/BBL_Inequality_Sep2022.pdf
 - name: VoxEU

@@ -13,18 +13,18 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Monetary Economics***, accepted with minor revisions"
+publication: "***Journal of Monetary Economics***, accepted pending upload of final version"
 publication_short: ""
 
-abstract: "We provide evidence that expansionary fiscal policy lowers the return difference between public debt and less liquid assets---the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian model with incomplete markets and portfolio choice, in which public debt affects private liquidity. This liquidity channel stabilizes fixed-capital investment. We then quantify the long-run effects of higher public debt and find little crowding out of capital, but a sizable decline of the liquidity premium, which increases the fiscal burden of debt. We show that the revenue-maximizing level of public debt is positive and has increased to 60 percent of US GDP post-2010."
+abstract: "Expansionary fiscal policy lowers the return difference between public debt and less liquid assets - the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian model with incomplete markets and portfolio choice, in which public debt affects private liquidity.  This liquidity channel stabilizes fixed-capital investment. We then quantify the long-run effects of higher public debt and find little crowding out of capital, but a sizable decline of the liquidity premium, which increases the fiscal burden of debt. The revenue-maximizing level of public debt is positive and has increased to 60 percent of US GDP post-2010."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["select"]
 categories: []
 featured: false
 
