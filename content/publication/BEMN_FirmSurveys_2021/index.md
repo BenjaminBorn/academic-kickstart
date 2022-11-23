@@ -16,7 +16,7 @@ publishDate: 2019-11-01T21:56:04+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Handbook of Economic Expectations***, Elsevier, forthcoming"
+publication: "***Handbook of Economic Expectations***, Elsevier, Chap. 12, pp. 355–384"
 publication_short: ""
 
 abstract: "This chapter revisits survey evidence about firm expectations, with a particular focus on firms' production and prices. We aim at synthesizing the evidence established on the basis of various firm surveys from different countries. We complement our discussion of existing work with new evidence based on the ifo Survey of German firms. This allows us, first, to put together five stylized facts regarding firm expectations and expectation errors. In addition, we present new evidence regarding the stickiness of firm expectations. Second, we use the same data set to revisit key results regarding the formation of firm expectations. Firm expectations react strongly to firm-specific developments, whereas aggregate variables are less important. Third, we summarize the evidence on how firm expectations drive firm decisions."
