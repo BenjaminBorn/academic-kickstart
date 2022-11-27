@@ -76,3 +76,5 @@ email: ""
 Benjamin Born is an associate professor of macroeconomics at the Frankfurt School of Finance & Management and a research fellow at the CEPR and CESifo. In addition, he serves as research director at the ifo Institute's Center for Macroeconomics and Surveys and as an associate editor at the European Economic Review. He holds a Ph.D. in Economics from the University of Bonn.
 
 Full {{% staticref "files/cv_born.pdf" %}}CV{{% /staticref %}}.
+
+4th European Midwest Micro/Macro Conference (EM3C):  {{% staticref "files/EMMMC_2022_Final_Schedule.pdf" %}}Final Program{{% /staticref %}}.
