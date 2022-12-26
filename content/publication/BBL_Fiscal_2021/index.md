@@ -31,8 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP14883
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14883"
+- name: Published Version
+  url: "https://doi.org/10.1016/j.jmoneco.2022.11.009"
+# - name: CEPR DP14883
+#   url: "https://cepr.org/publications/dp14883-2"
 - name: Ungated
   url: files/BBL_Fiscal_Liquidity_July_2022.pdf
 - name: VoxEU

@@ -3,7 +3,7 @@
 
 title: "Firm Expectations and News: Micro v Macro"
 authors: ["Benjamin Born", "Zeno Enders", "Manuel Menkhoff", "Gernot J. Müller", "Knut Niemann"]
-date: 2022-08-18
+date: 2022-12-25
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "How do expectations about the economy adjust to news? In this paper, we turn to firm expectations about their production and establish that the type of news matters - firm expectations overreact to micro news but underreact to macro news. We obtain these results based on a large survey of firm expectations. We define micro news as new information about firm-specific developments, while macro news are surprise innovations to an aggregate indicator. In violation of the full-information rational expectation hypothesis, both type of news predict forecast errors. But while micro news predict negative forecast errors, macro news predict positive forecast errors. We show that a general equilibrium model can rationalize the patters in the data once we assume that firms suffer from ``island illusion''."
+abstract: "In this study, we investigate how firm expectations about their own developments respond to different types of news. We classify news as either micro or macro, with micro news being information about firm-specific developments and macro news being information about the aggregate economy. Our analysis of firm surveys from Germany and Italy shows that both types of news consistently predict forecast errors, contradicting the idea of full-information rational expectations. Yet while firm expectations overreact to micro news, they underreact to macro news. We propose a model in which firms suffer from ``island illusion'' to explain these patterns in the data."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -33,11 +33,10 @@ featured: false
 links:
 # - name: Published Version
 #   url: "https://doi.org/10.1162/rest_a_00844"
-- name: Working Paper
-  url: files/BEMMN_MicroMacroNews_Aug2022.pdf
-# - name: Fiscal Shock Series
-#- name: Earlier CEPR DP10425
-#  url: "http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10425"
+- name: CEPR DP17768
+  url: "https://cepr.org/publications/dp17768"
+- name: Ungated
+  url: files/BEMMN_MicroMacroNews_Dec2022.pdf
 # - name: VoxEU
 #   url: "http://www.voxeu.org/article/austerity-pays-after-all"
 # - name: Ökonomenstimme

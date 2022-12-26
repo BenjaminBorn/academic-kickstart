@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: CEPR DP15581
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15581"
+  url: "https://cepr.org/publications/dp15581-1"
 - name: Ungated
   url: files/BDE_NewsUnc_Feb2022.pdf
 # - name: VoxEU

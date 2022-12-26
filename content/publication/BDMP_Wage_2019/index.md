@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: CEPR DP14073
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14073"
+  url: "https://cepr.org/publications/dp14073"
 - name: Ungated
   url: files/BDMP_MrKeynes_Nov2022.pdf
 
