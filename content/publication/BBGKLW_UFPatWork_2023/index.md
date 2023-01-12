@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Firm Expectations and News: Micro v Macro"
-authors: ["Benjamin Born", "Zeno Enders", "Manuel Menkhoff", "Gernot J. Müller", "Knut Niemann"]
-date: 2022-12-25
+title: "Unconventional Fiscal Policy at Work"
+authors: ["Rüdiger Bachmann", "Benjamin Born", "Olga Goldfayn-Frank", "Georgi Kocharkov", "Ralph Luetticke", "Michael Weber"]
+date: 2023-01-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-01T21:56:04+01:00
+publishDate: 2019-11-01T22:11:49+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2019-11-01T21:56:04+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "***AEA Papers & Proceedings***, in preparation"
 publication_short: ""
 
-abstract: "In this study, we investigate how firm expectations about their own developments respond to different types of news. We classify news as either micro or macro, with micro news being information about firm-specific developments and macro news being information about the aggregate economy. Our analysis of firm surveys from Germany and Italy shows that both types of news consistently predict forecast errors, contradicting the idea of full-information rational expectations. Yet while firm expectations overreact to micro news, they underreact to macro news. We propose a model in which firms suffer from ``island illusion'' to explain these patterns in the data."
+abstract: "In an effort to stabilize the economy during the Covid-19 pandemic, the German government reduced value added taxes (VAT) by three percentage points for a period of six months in the latter half of 2020. This measure resulted in a boost in aggregate consumer spending on both durable and semi-durable goods during the six-month period, with spending decreasing once the VAT reduction was reversed. The effect of the temporary VAT cut on durable spending was stronger than on semi-durable spending. Additionally, the temporary VAT cut also stabilized, and even slightly increased, inflation expectations in the second half of 2020."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -31,14 +31,14 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: Published Version
-#   url: "https://doi.org/10.1162/rest_a_00844"
-- name: CEPR DP17768
-  url: "https://cepr.org/publications/dp17768"
+# - name: NBER WP29442
+#   url: "https://www.nber.org/papers/w29442"
 - name: Ungated
-  url: files/BEMMN_MicroMacroNews_Dec2022.pdf
-- name: VoxEU
-  url: "https://cepr.org/voxeu/columns/island-illusion-how-firms-react-news"
+  url: files/BBGKLW_UFP_at_Work_Jan2023.pdf
+# - name: VoxEU
+#   url: "https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy"
+# - name: Feature @ BFI
+#   url: "https://bfi.uchicago.edu/insight/finding/a-temporary-vat-cut-as-unconventional-fiscal-policy/"
 
 url_pdf:
 url_code:
