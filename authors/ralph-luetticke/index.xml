@@ -5,12 +5,20 @@
     <link>https://BenjaminBorn.github.io/authors/ralph-luetticke/</link>
       <atom:link href="https://BenjaminBorn.github.io/authors/ralph-luetticke/index.xml" rel="self" type="application/rss+xml" />
     <description>Ralph Luetticke</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ralph Luetticke</title>
       <link>https://BenjaminBorn.github.io/authors/ralph-luetticke/</link>
     </image>
+    
+    <item>
+      <title>Shocks, Frictions, and Inequality in US Business Cycles</title>
+      <link>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unconventional Fiscal Policy at Work</title>
@@ -25,14 +33,6 @@
       <link>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shocks, Frictions, and Inequality in US Business Cycles</title>
-      <link>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</guid>
       <description></description>
     </item>
     
