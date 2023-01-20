@@ -3,7 +3,7 @@
 
 title: "Expectation dispersion, uncertainty, and the reaction to news"
 authors: ["Benjamin Born", "Jonas Dovern", "Zeno Enders"]
-date: 2022-02-10
+date: 2023-01-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:  "***European Economic Review***, revise & resubmit"
+publication:  "***European Economic Review***, revised & resubmitted"
 publication_short: ""
 
-abstract: "Releases of key macroeconomic indicators are closely watched by financial markets. We investigate the role of expectation dispersion and economic uncertainty for the stock-market reaction to indicator releases. We find that the strength of the financial market response to news decreases with the preceding dispersion in expectations about the indicator value. Higher uncertainty, in contrast, increases the response. We rationalize our findings in a model of imperfect information. In the model, dispersion results from a perceived weak link between macroeconomic indicators and fundamentals that reduces the informational content of indicators, while higher fundamental uncertainty makes this informational content more valuable."
+abstract: "Key macroeconomic indicator releases are closely monitored by financial markets. We examine the impact of expectation dispersion and economic uncertainty on the stock market's reaction to these indicators. We find that the strength of the financial market response to news decreases with the preceding dispersion in expectations about the indicator value. Higher uncertainty, in contrast, increases the response. We rationalize our findings in a model of imperfect information. In the model, dispersion results from a perceived weak link between macroeconomic indicators and fundamentals that reduces the informational content of indicators, while fundamental uncertainty makes their informational content more valuable."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP15581
   url: "https://cepr.org/publications/dp15581-1"
 - name: Ungated
-  url: files/BDE_NewsUnc_Feb2022.pdf
+  url: files/BDE_NewsUnc_Jan2023.pdf
 # - name: VoxEU
 #   url: "https://voxeu.org/article/impact-us-coronavirus-stimulus-package"
 

@@ -31,15 +31,17 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP14600
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14600"
+- name: Published Version
+  url: "https://doi.org/10.1093/ej/uead003"
+# - name: CEPR DP14600
+#   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14600"
 - name: Ungated
   url: files/BBLM_Covid_May2022.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/impact-us-coronavirus-stimulus-package"
 
 url_pdf:
-url_code:
+url_code: "https://doi.org/10.5281/zenodo.7492142"
 url_dataset:
 url_poster:
 url_project:
