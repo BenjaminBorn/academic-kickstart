@@ -13,7 +13,7 @@ publishDate: 2019-11-01T21:56:04+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
 publication: "***Handbook of Economic Expectations***, Elsevier, Chap. 12, pp. 355–384"
@@ -24,16 +24,16 @@ abstract: "This chapter revisits survey evidence about firm expectations, with a
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: ["non-refereed"]
 categories: []
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: Published Version
-#   url: "https://doi.org/10.1162/rest_a_00844"
-- name: Chapter
+- name: Published Version
+  url: "https://doi.org/10.1016/B978-0-12-822927-9.00019-7"
+- name: Ungated
   url: files/BEMN_2022_Chap15_FirmExp.pdf
 - name: Online Appendix
   url: files/BEMN2022_handbook_webappendix.pdf

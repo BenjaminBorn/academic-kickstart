@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Unconventional Fiscal Policy at Work"
-authors: ["Rüdiger Bachmann", "Benjamin Born", "Olga Goldfayn-Frank", "Georgi Kocharkov", "Ralph Luetticke", "Michael Weber"]
-date: 2023-01-12
+title: "How Should Central Banks Deal with a Financial Stability Objective? The Evolving Role of Communication as a Policy Instrument"
+authors: ["Benjamin Born", "Michael Ehrmann", "Marcel Fratzscher"]
+date: 2011-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***AEA Papers & Proceedings***, forthcoming"
+publication: "***Handbook of Central Banking, Financial Regulation and Supervision***, Edward Elgar, Chap. 9, pp. 245–268"
 publication_short: ""
 
-abstract: "In an effort to stabilize the economy during the Covid-19 pandemic, the German government reduced value added taxes (VAT) by three percentage points for a period of six months in the latter half of 2020. This measure resulted in a boost in aggregate consumer spending on both durable and semi-durable goods during the six-month period, with spending decreasing once the VAT reduction was reversed. The effect of the temporary VAT cut on durable spending was stronger than on semi-durable spending. Additionally, the temporary VAT cut also stabilized, and even slightly increased, inflation expectations in the second half of 2020."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -31,14 +31,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: NBER WP29442
-#   url: "https://www.nber.org/papers/w29442"
-- name: Ungated
-  url: files/BBGKLW_UFP_at_Work_Jan2023.pdf
-# - name: VoxEU
-#   url: "https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy"
-# - name: Feature @ BFI
-#   url: "https://bfi.uchicago.edu/insight/finding/a-temporary-vat-cut-as-unconventional-fiscal-policy/"
+- name: Published Version
+  url: "https://doi.org/10.4337/9781849805766.00015"
 
 url_pdf:
 url_code:
