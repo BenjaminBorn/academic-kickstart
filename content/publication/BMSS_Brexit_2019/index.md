@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Economic Journal***, 129(10), pp. 2722–2744"
+publication: "***Economic Journal***, 129(623), pp. 2722–2744"
 publication_short: ""
 
 abstract: "Economic nationalism is on the rise, but at what cost? We study this question using the unexpected outcome of the Brexit vote as a natural macroeconomic experiment. Employing synthetic control methods, we first show that the Brexit vote has caused a UK output loss of 1.7-2.5 percent by year-end 2018. An expectations-augmented VAR suggests that these costs are to a large extent driven by a downward revision of growth expectations in response to the vote. Linking quasi-experimental identification to structural time-series estimation allows us to not only quantify the aggregate costs but also to understand the channels through which expected economic disintegration impacts the macroeconomy."

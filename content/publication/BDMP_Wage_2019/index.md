@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Political Economy***, revised & resubmitted"
+publication: "***Journal of Political Economy***, revise & resubmit (second round)"
 publication_short: ""
 
 abstract: "In economies with fixed exchange rates, the adjustment to government spending shocks is asymmetric. Expansionary shocks are absorbed by the real exchange rate, contractionary shocks by output. This result emerges in a small open economy model with downward nominal wage rigidity and is supported by new empirical evidence based on panel data from different exchange-rate regimes. The exchange-rate regime, economic slack, inflation, and how spending is financed all matter for the fiscal transmission mechanism in the way predicted by the model. Estimates that fail to distinguish between the effects of positive and negative shocks are subject to a ''depreciation bias''."

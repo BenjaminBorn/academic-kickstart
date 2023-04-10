@@ -80,4 +80,4 @@ Benjamin Born is an associate professor of macroeconomics at the Frankfurt Schoo
 <!-- 
 Full {{% staticref "files/cv_born.pdf" %}}CV{{% /staticref %}}. -->
 
-<strong>Open Positions</strong> (Deadline April 30): Postdoctoral Researchers in Frankfurt School's Centre for Central Banking:  {{% staticref "https://apply.interfolio.com/120066" %}}More Info {{% /staticref %}}.
+<!-- <strong>Open Positions</strong> (Deadline April 30): Postdoctoral Researchers in Frankfurt School's Centre for Central Banking:  {{% staticref "https://apply.interfolio.com/120066" %}}More Info {{% /staticref %}}. -->

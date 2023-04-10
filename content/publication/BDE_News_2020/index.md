@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication:  "***European Economic Review***, forthcoming"
+publication:  "***European Economic Review***, 154, pp. 104440"
 publication_short: ""
 
 abstract: "Key macroeconomic indicator releases are closely monitored by financial markets. We examine the impact of expectation dispersion and economic uncertainty on the stock market's reaction to these indicators. We find that the strength of the financial market response to news decreases with the preceding dispersion in expectations about the indicator value. Higher uncertainty, in contrast, increases the response. We rationalize our findings in a model of imperfect information. In the model, dispersion results from a perceived weak link between macroeconomic indicators and fundamentals that reduces the informational content of indicators, while fundamental uncertainty makes their informational content more valuable."

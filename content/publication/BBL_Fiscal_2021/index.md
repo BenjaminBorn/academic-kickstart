@@ -3,7 +3,7 @@
 
 title: "The Liquidity Channel of Fiscal Policy"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2022-07-10
+date: 2023-01-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
