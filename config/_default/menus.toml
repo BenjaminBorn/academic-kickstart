@@ -39,3 +39,8 @@
    name = "CV"
    url = "files/cv_born.pdf"
    weight = 20
+
+# [[main]]
+#   name = "Inflation Twitter"  # A link title for your page.
+#   url = "inflationtwitter/"  # The URL of your page.
+#   weight = 70  # The position of your page in the menu.

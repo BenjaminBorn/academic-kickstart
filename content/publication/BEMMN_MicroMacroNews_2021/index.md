@@ -3,7 +3,7 @@
 
 title: "Firm Expectations and News: Micro v Macro"
 authors: ["Benjamin Born", "Zeno Enders", "Manuel Menkhoff", "Gernot J. Müller", "Knut Niemann"]
-date: 2022-12-25
+date: 2023-06-28
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "In this study, we investigate how firm expectations about their own developments respond to different types of news. We classify news as either micro or macro, with micro news being information about firm-specific developments and macro news being information about the aggregate economy. Our analysis of firm surveys from Germany and Italy shows that both types of news consistently predict forecast errors, contradicting the idea of full-information rational expectations. Yet while firm expectations overreact to micro news, they underreact to macro news. We propose a model in which firms suffer from ``island illusion'' to explain these patterns in the data."
+abstract: "Using firm-level data, we study how firm expectations adjust to news while accounting for a) the heterogeneity of news and b) the heterogeneity of firms. We classify news as either micro or macro, that is, information about firm-specific developments or information about the aggregate economy. Survey data for German and Italian firms allows us to reject rational expectations: Both types of news predict forecast errors at the firm level. Yet while firm expectations overreact to micro news, they underreact to macro news. We propose a general-equilibrium model where firms suffer from ‘island illusion’ to explain these patterns in the data."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,9 +34,9 @@ links:
 # - name: Published Version
 #   url: "https://doi.org/10.1162/rest_a_00844"
 - name: CEPR DP17768
-  url: "https://cepr.org/publications/dp17768"
+  url: "https://cepr.org/system/files/publication-files/DP17768.pdf"
 - name: Ungated
-  url: files/BEMMN_MicroMacroNews_Dec2022.pdf
+  url: files/BEMMN_MicroMacroNews_Jun2023.pdf
 - name: VoxEU
   url: "https://cepr.org/voxeu/columns/island-illusion-how-firms-react-news"
 

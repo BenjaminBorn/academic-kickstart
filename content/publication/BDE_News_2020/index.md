@@ -24,7 +24,7 @@ abstract: "Key macroeconomic indicator releases are closely monitored by financi
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: []
 categories: []
 featured: false
 
