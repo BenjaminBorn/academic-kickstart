@@ -3,7 +3,7 @@
 
 title: "Shocks, Frictions, and Inequality in US Business Cycles"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2023-06-01
+date: 2022-09-30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "***American Economic Review***, conditionally accepted"
@@ -24,7 +24,7 @@ abstract: "We show how a heterogeneous-agent New-Keynesian (HANK) model with inc
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: []
 categories: []
 featured: false
 

@@ -3,7 +3,7 @@
 
 title: "On FIRE, news, and expectations"
 authors: ["Benjamin Born", "Zeno Enders", "Gernot J. Müller"]
-date: 2023-06-08
+date: 2024-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,17 +33,10 @@ featured: false
 links:
 # - name: Published Version
 #   url: "https://doi.org/10.1016/B978-0-12-822927-9.00019-7"
+- name: CEPR DP18259
+  url: "https://cepr.org/publications/dp18259"
 - name: Ungated
   url: files/BEM_FIRE_Handbook_2023.pdf
-# - name: Online Appendix
-#   url: files/BEMN2022_handbook_webappendix.pdf
-# - name: Fiscal Shock Series
-#- name: Earlier CEPR DP10425
-#  url: "http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10425"
-# - name: VoxEU
-#   url: "http://www.voxeu.org/article/austerity-pays-after-all"
-# - name: Ökonomenstimme
-#   url: "http://www.oekonomenstimme.org/artikel/2015/02/zahlt-sich-austeritaet-aus"
 
 url_pdf:
 url_code:

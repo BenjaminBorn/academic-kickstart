@@ -34,7 +34,7 @@ links:
 # - name: Published Version
 #   url: "https://doi.org/10.1162/rest_a_00844"
 - name: CEPR DP17768
-  url: "https://cepr.org/system/files/publication-files/DP17768.pdf"
+  url: "https://cepr.org/publications/dp17768"
 - name: Ungated
   url: files/BEMMN_MicroMacroNews_Jun2023.pdf
 - name: VoxEU
