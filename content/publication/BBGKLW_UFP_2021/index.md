@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "***Review of Economic Studies***, reject & resubmit"
 publication_short: ""
 
 abstract: "We exploit the temporary VAT cut by three percentage points in Germany in the second half of 2020 as a natural experiment to study the spending response to unconventional fiscal policy. We use survey and scanner data on households’ consumption expenditures and their perceived pass-through of the tax change into prices to quan- tify the effects of this VAT policy. The temporary VAT cut led to a relative increase in durable spending of 37 percent for individuals with high perceived pass-through. Semi-durable spending also increased. According to a back-of-the-envelope calculation, the VAT policy increased aggregate consumption spending by 26 billion Euros, or 1.6 percent."
