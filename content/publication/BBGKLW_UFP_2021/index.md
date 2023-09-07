@@ -3,7 +3,7 @@
 
 title: "A Temporary VAT Cut as Unconventional Fiscal Policy"
 authors: ["Rüdiger Bachmann", "Benjamin Born", "Olga Goldfayn-Frank", "Georgi Kocharkov", "Ralph Luetticke", "Michael Weber"]
-date: 2022-11-23
+date: 2023-02-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "***Review of Economic Studies***, reject & resubmit"
 publication_short: ""
 
-abstract: "We exploit the temporary VAT cut by three percentage points in Germany in the second half of 2020 as a natural experiment to study the spending response to unconventional fiscal policy. We use survey and scanner data on households’ consumption expenditures and their perceived pass-through of the tax change into prices to quan- tify the effects of this VAT policy. The temporary VAT cut led to a relative increase in durable spending of 37 percent for individuals with high perceived pass-through. Semi-durable spending also increased. According to a back-of-the-envelope calculation, the VAT policy increased aggregate consumption spending by 26 billion Euros, or 1.6 percent."
+abstract: "We exploit the temporary VAT cut by three percentage points in Germany in the second half of 2020 to study the spending response to unconventional fiscal policy. We use survey and scanner data on households' consumption expenditures and their perceived pass-through of the tax change into prices to quantify the effects of this VAT policy. The temporary VAT cut led to a relative increase in durable spending of 37 percent for individuals with high perceived pass-through. Semi-durable spending also increased. According to a back-of-the-envelope calculation, the VAT policy increased aggregate consumption spending by 26 billion Euros, or 1.6 percent."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: NBER WP29442
   url: "https://www.nber.org/papers/w29442"
 - name: Ungated
-  url: files/BBGKLW_Unconventional_Fiscal_Policy_Nov2022.pdf
+  url: files/BBGKLW_Unconventional_Fiscal_Policy_Feb2023.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/temporary-vat-cut-unconventional-fiscal-policy"
 - name: Feature @ BFI

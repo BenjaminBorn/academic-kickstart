@@ -1,45 +1,47 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shocks, Frictions, and Inequality in US Business Cycles"
-authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2023-08-01
+title: "Monetary Policy in the Age of Social Media: A Twitter-Based Inflation Analysis"
+authors: ["Benjamin Born", "Hrishbh Dalal", "Nora Lamersdorf", "Sascha Steffen"]
+date: 2023-09-07
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-01T22:11:49+01:00
+publishDate: 2019-11-01T21:56:04+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***American Economic Review***, conditionally accepted"
+publication: ""
 publication_short: ""
 
-abstract: "We show how a heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice can be estimated in state space using a Bayesian approach. To render estimation feasible, the structure of the economy can be exploited and the dimensionality of the model automatically reduced based on the Bayesian priors. We apply this approach to analyze how much inequality matters for the business cycle and vice versa. Even when the model is estimated on aggregate data alone and with a set of shocks and frictions designed to match aggregate data, it broadly reproduces observed US inequality dynamics."
+abstract: "We develop a high-frequency inflation index derived from German tweets through sophisti- cated NLP methods. This index aligns closely with realized inflation and consumer inflation expectations, both nationally and regionally, offering enhanced predictive precision over current benchmarks. Notably, it responds to monetary policy shifts, rising post-easing and falling after unexpected tightenings. The influence is particularly pronounced from tweets by private users during recent periods of elevated inflation. Elevated inflation expectations correlate with reduced consumer spending, as gauged from online transaction data, particularly on discretionary goods. Consequently, this Twitter-centric index offers a valuable real-time tool to assess prevailing inflation sentiments."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["select"]
+tags: []
 categories: []
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP14364
-  url: "https://cepr.org/publications/dp14364"
-- name: Ungated
-  url: files/BBL_Inequality_Sep2022.pdf
-- name: VoxEU
-  url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
+# - name: Published Version
+#   url: "https://doi.org/10.1162/rest_a_00844"
+# - name: CEPR DP17768
+#   url: "https://cepr.org/publications/dp17768"
+- name: Paper
+  url: files/BDLS_InflationTwitter_Sep2023.pdf
+# - name: VoxEU
+#   url: "https://cepr.org/voxeu/columns/island-illusion-how-firms-react-news"
 
 url_pdf:
-url_code: "https://github.com/BASEforHANK"
+url_code:
 url_dataset:
 url_poster:
 url_project:

@@ -31,8 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP14073
-  url: "https://cepr.org/publications/dp14073"
+- name: Published Version
+  url: "https://doi.org/10.1086/727707"
+# - name: CEPR DP14073
+#   url: "https://cepr.org/publications/dp14073"
 - name: Ungated
   url: files/BDMP_MrKeynes_July2023.pdf
 
