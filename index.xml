@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Monetary Policy in the Age of Social Media: A Twitter-Based Inflation Analysis</title>
+      <link>https://BenjaminBorn.github.io/publication/bdls_inflationtwitter_2023/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bdls_inflationtwitter_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shocks, Frictions, and Inequality in US Business Cycles</title>
+      <link>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mr. Keynes meets the Classics: Government Spending and the Real Exchange Rate</title>
       <link>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
@@ -37,23 +53,23 @@
     </item>
     
     <item>
-      <title>Measuring Inflation Expectations using Twitter Data</title>
+      <title>Monetary Policy in the Age of Social Media: A Twitter-Based Inflation Analysis</title>
       <link>https://BenjaminBorn.github.io/inflationtwitter/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/inflationtwitter/</guid>
-      <description>&lt;p&gt;We construct an inflation index from German tweets using advanced NLP techniques. The index is strongly correlated with actual inflation and consumer inflation expectations at the national and regional levels and provides improved forecasting accuracy beyond existing measures.&lt;/p&gt;
+      <description>&lt;p&gt;We develop a high-frequency inflation index derived from German tweets through sophisti- cated NLP methods. This index aligns closely with realized inflation and consumer inflation expectations, both nationally and regionally, offering enhanced predictive precision over current benchmarks. Notably, it responds to monetary policy shifts, rising post-easing and falling after unexpected tightenings. The influence is particularly pronounced from tweets by private users during recent periods of elevated inflation. Elevated inflation expectations correlate with reduced consumer spending, as gauged from online transaction data, particularly on discretionary goods. Consequently, this Twitter-centric index offers a valuable real-time tool to assess prevailing inflation sentiments.&lt;/p&gt;
+&lt;iframe title=&#34;Twitter (X)-based Inflation Index for Germany&#34; aria-label=&#34;Interactive line chart&#34; id=&#34;datawrapper-chart-u5S8Q&#34; src=https://datawrapper.dwcdn.net/u5S8Q/1/ scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;width: 0; min-width: 100% !important; border: none;&#34; height=&#34;400&#34; data-external=&#34;1&#34;&gt;&lt;/iframe&gt;&lt;script type=&#34;text/javascript&#34;&gt;!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,(function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;]){var e=document.querySelectorAll(&#34;iframe&#34;);for(var t in a.data[&#34;datawrapper-height&#34;])for(var r=0;r&lt;e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[&#34;datawrapper-height&#34;][t]+&#34;px&#34;;e[r].style.height=i}}}))}();
+&lt;/script&gt;
 &lt;p&gt;&lt;strong&gt;Project Team&lt;/strong&gt;&lt;br&gt;
 Benjamin Born (&lt;a href=&#34;mailto:b.born@fs.de&#34;&gt;b.born@fs.de&lt;/a&gt;)&lt;br&gt;
 Hrishbh Dalal (&lt;a href=&#34;mailto:h.dalal@fs.de&#34;&gt;h.dalal@fs.de&lt;/a&gt;)&lt;br&gt;
 Nora Lamersdorf (&lt;a href=&#34;mailto:n.lamersdorf@fs.de&#34;&gt;n.lamersdorf@fs.de&lt;/a&gt;)&lt;br&gt;
 Sascha Steffen (&lt;a href=&#34;mailto:s.steffen@fs.de&#34;&gt;s.steffen@fs.de&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Research Paper&lt;/strong&gt;&lt;br&gt;
-Benjamin Born, Hrishbh Dalal, Nora Lamersdorf, and Sascha Steffen (2023), &amp;ldquo;&lt;em&gt;Measuring Inflation Expectations using Twitter Data&lt;/em&gt;&amp;rdquo; [pdf]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;br&gt;
-Data download (.xlsx)&lt;/p&gt;
-&lt;p&gt;This project is supported by the Federal Ministry of Economic Affairs and Climate Action via the &amp;ldquo;safe Financial Big Data Cluster (safeFBDC)&amp;rdquo;.&lt;/p&gt;
-&lt;!-- &lt;iframe title=&#34;Test Chart&#34; aria-label=&#34;Scatter Plot&#34; id=&#34;datawrapper-chart-nOv2r&#34; src=&#34;https://datawrapper.dwcdn.net/nOv2r/1/&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;width: 0; min-width: 100% !important; border: none;&#34; height=&#34;400&#34; data-external=&#34;1&#34;&gt;&lt;/iframe&gt;&lt;script type=&#34;text/javascript&#34;&gt;!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,(function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;]){var e=document.querySelectorAll(&#34;iframe&#34;);for(var t in a.data[&#34;datawrapper-height&#34;])for(var r=0;r&lt;e.length;r++)if(e[r].contentWindow===a.source){var i=a.data[&#34;datawrapper-height&#34;][t]+&#34;px&#34;;e[r].style.height=i}}}))}();
-&lt;/script&gt; --&gt;</description>
+Benjamin Born, Hrishbh Dalal, Nora Lamersdorf, and Sascha Steffen (2023), &amp;ldquo;&lt;em&gt;Monetary Policy in the Age of Social Media: A Twitter-Based Inflation Analysis&lt;/em&gt;&amp;rdquo; &lt;a href=&#34;../files/BDLS_InflationTwitter_Sep2023.pdf&#34;&gt;[pdf]&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding&lt;/strong&gt;&lt;br&gt;
+This project is supported by the Federal Ministry of Economic Affairs and Climate Action via the &amp;ldquo;safe Financial Big Data Cluster (safeFBDC)&amp;rdquo; and based at Frankfurt School&amp;rsquo;s  &lt;a href=&#34;https://www.frankfurt-school.de/home/research/centres/centre-for-european-transformation&#34;&gt;Centre for European Transformation&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -69,6 +85,14 @@ Data download (.xlsx)&lt;/p&gt;
       <link>https://BenjaminBorn.github.io/publication/bde_news_2020/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bde_news_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Temporary VAT Cut as Unconventional Fiscal Policy</title>
+      <link>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</guid>
       <description></description>
     </item>
     
@@ -93,22 +117,6 @@ Data download (.xlsx)&lt;/p&gt;
       <link>https://BenjaminBorn.github.io/publication/bbmw_inclusivemp_2022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bbmw_inclusivemp_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Temporary VAT Cut as Unconventional Fiscal Policy</title>
-      <link>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shocks, Frictions, and Inequality in US Business Cycles</title>
-      <link>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</guid>
       <description></description>
     </item>
     
