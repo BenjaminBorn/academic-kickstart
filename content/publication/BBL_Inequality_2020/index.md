@@ -3,7 +3,7 @@
 
 title: "Shocks, Frictions, and Inequality in US Business Cycles"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2023-08-01
+date: 2023-09-29
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14364
   url: "https://cepr.org/publications/dp14364"
 - name: Ungated
-  url: files/BBL_Inequality_Sep2022.pdf
+  url: files/BBL_Inequality_Sep2023.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
 
