@@ -3,7 +3,7 @@
 
 title: "Shocks, Frictions, and Inequality in US Business Cycles"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2023-09-29
+date: 2024-01-24
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***American Economic Review***, conditionally accepted"
+publication: "***American Economic Review***, forthcoming"
 publication_short: ""
 
 abstract: "We show how a heterogeneous-agent New-Keynesian (HANK) model with incomplete markets and portfolio choice can be estimated in state space using a Bayesian approach. To render estimation feasible, the structure of the economy can be exploited and the dimensionality of the model automatically reduced based on the Bayesian priors. We apply this approach to analyze how much inequality matters for the business cycle and vice versa. Even when the model is estimated on aggregate data alone and with a set of shocks and frictions designed to match aggregate data, it broadly reproduces observed US inequality dynamics."
@@ -31,8 +31,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: CEPR DP14364
-  url: "https://cepr.org/publications/dp14364"
+- name: Published Version
+  url: "https://www.aeaweb.org/articles?id=10.1257/aer.20201875"
+# - name: CEPR DP14364
+#   url: "https://cepr.org/publications/dp14364"
 - name: Ungated
   url: files/BBL_Inequality_Sep2023.pdf
 - name: VoxEU

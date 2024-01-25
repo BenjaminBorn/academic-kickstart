@@ -3,7 +3,7 @@
 
 title: "Mr. Keynes meets the Classics: Government Spending and the Real Exchange Rate"
 authors: ["Benjamin Born", "Francesco D’Ascanio", "Gernot J. Müller", "Johannes Pfeifer"]
-date: 2023-07-28
+date: 2024-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
