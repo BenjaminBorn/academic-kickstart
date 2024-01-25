@@ -2,19 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://BenjaminBorn.github.io/publication_types/2/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/authors/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/authors/benjamin-born/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/authors/christian-bayer/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/publication_types/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/publication/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/authors/ralph-luetticke/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/tags/select/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/tags/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://BenjaminBorn.github.io/publication_types/5/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BenjaminBorn.github.io/authors/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/authors/benjamin-born/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/</loc>
+    <loc>https://BenjaminBorn.github.io/authors/francesco-dascanio/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BenjaminBorn.github.io/tags/non-refereed/</loc>
@@ -23,32 +56,8 @@
     <loc>https://BenjaminBorn.github.io/publication/bem_fire_handbook_2023/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BenjaminBorn.github.io/publication_types/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/publication/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/tags/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://BenjaminBorn.github.io/authors/zeno-enders/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/publication_types/2/</loc>
-    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/authors/christian-bayer/</loc>
-    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/authors/ralph-luetticke/</loc>
-    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/tags/select/</loc>
-    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</loc>
-    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BenjaminBorn.github.io/publication_types/3/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
@@ -64,15 +73,6 @@
   </url><url>
     <loc>https://BenjaminBorn.github.io/authors/sascha-steffen/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/authors/francesco-dascanio/</loc>
-    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</loc>
-    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</loc>
-    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://BenjaminBorn.github.io/publication/bemmn_micromacronews_2021/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
