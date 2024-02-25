@@ -3,7 +3,7 @@
 
 title: "Firm Expectations and News: Micro v Macro"
 authors: ["Benjamin Born", "Zeno Enders", "Manuel Menkhoff", "Gernot J. Müller", "Knut Niemann"]
-date: 2023-06-28
+date: 2024-02-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Using firm-level data, we study how firm expectations adjust to news while accounting for a) the heterogeneity of news and b) the heterogeneity of firms. We classify news as either micro or macro, that is, information about firm-specific developments or information about the aggregate economy. Survey data for German and Italian firms allows us to reject rational expectations: Both types of news predict forecast errors at the firm level. Yet while firm expectations overreact to micro news, they underreact to macro news. We propose a general-equilibrium model where firms suffer from ‘island illusion’ to explain these patterns in the data."
+abstract: "Firm expectations reflect micro and macro news: information about firm-level developments and the aggregate economy. We formalize this notion in a stylized general-equilibrium model where firms face a signal-extraction problem and study the implications of `island illusion,' meaning that firms systematically underestimate the importance of aggregate developments for their own performance. Island illusion is governed by a single parameter that captures the departure from rational expectations. It imposes joint restrictions on the impact of micro and macro news that we confront with survey data for Italian and German firms. While both surveys differ along many dimensions, we find robustly that firms' expectations about their own prices and output overreact to micro news and underreact to macro news---just like the model predicts for island illusion. Moreover, also consistent with the model, we find the extent of overreaction and underreaction to co-move positively, both over time and across firms."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ links:
 - name: CEPR DP17768
   url: "https://cepr.org/publications/dp17768"
 - name: Ungated
-  url: files/BEMMN_MicroMacroNews_Jun2023.pdf
+  url: files/BEMMN_MicroMacroNews_Feb2024.pdf
 - name: VoxEU
   url: "https://cepr.org/voxeu/columns/island-illusion-how-firms-react-news"
 
