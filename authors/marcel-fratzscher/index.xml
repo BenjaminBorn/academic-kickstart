@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcel Fratzscher | Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/marcel-fratzscher/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/marcel-fratzscher/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/marcel-fratzscher/</link>
+      <atom:link href="http://localhost:1313/authors/marcel-fratzscher/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcel Fratzscher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Marcel Fratzscher</title>
-      <link>https://BenjaminBorn.github.io/authors/marcel-fratzscher/</link>
+      <link>http://localhost:1313/authors/marcel-fratzscher/</link>
     </image>
     
     <item>
       <title>Central Bank Communication on Financial Stability</title>
-      <link>https://BenjaminBorn.github.io/publication/bef_fscom_2014/</link>
+      <link>http://localhost:1313/publication/bef_fscom_2014/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bef_fscom_2014/</guid>
+      <guid>http://localhost:1313/publication/bef_fscom_2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communicating about Macroprudential Supervision - A New Challenge for Central Banks</title>
-      <link>https://BenjaminBorn.github.io/publication/bef_fscom_2012/</link>
+      <link>http://localhost:1313/publication/bef_fscom_2012/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bef_fscom_2012/</guid>
+      <guid>http://localhost:1313/publication/bef_fscom_2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Should Central Banks Deal with a Financial Stability Objective? The Evolving Role of Communication as a Policy Instrument</title>
-      <link>https://BenjaminBorn.github.io/publication/bef_fscom_handbook_2011/</link>
+      <link>http://localhost:1313/publication/bef_fscom_handbook_2011/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bef_fscom_handbook_2011/</guid>
+      <guid>http://localhost:1313/publication/bef_fscom_handbook_2011/</guid>
       <description></description>
     </item>
     

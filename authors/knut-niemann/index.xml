@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Knut Niemann | Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/knut-niemann/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/knut-niemann/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/knut-niemann/</link>
+      <atom:link href="http://localhost:1313/authors/knut-niemann/index.xml" rel="self" type="application/rss+xml" />
     <description>Knut Niemann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Knut Niemann</title>
-      <link>https://BenjaminBorn.github.io/authors/knut-niemann/</link>
+      <link>http://localhost:1313/authors/knut-niemann/</link>
     </image>
     
     <item>
       <title>Firm Expectations and News: Micro v Macro</title>
-      <link>https://BenjaminBorn.github.io/publication/bemmn_micromacronews_2021/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bemmn_micromacronews_2021/</guid>
+      <link>http://localhost:1313/publication/bemmn_micromacronews_2021/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bemmn_micromacronews_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firm expectations about production and prices: Facts, determinants, and effects</title>
-      <link>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</link>
+      <link>http://localhost:1313/publication/bemn_firmsurveys_2021/</link>
       <pubDate>Mon, 31 Jan 2022 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</guid>
+      <guid>http://localhost:1313/publication/bemn_firmsurveys_2021/</guid>
       <description></description>
     </item>
     

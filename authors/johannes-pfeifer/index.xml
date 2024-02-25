@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johannes Pfeifer | Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/johannes-pfeifer/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/johannes-pfeifer/</link>
+      <atom:link href="http://localhost:1313/authors/johannes-pfeifer/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes Pfeifer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Johannes Pfeifer</title>
-      <link>https://BenjaminBorn.github.io/authors/johannes-pfeifer/</link>
+      <link>http://localhost:1313/authors/johannes-pfeifer/</link>
     </image>
     
     <item>
       <title>Mr. Keynes meets the Classics: Government Spending and the Real Exchange Rate</title>
-      <link>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</link>
+      <link>http://localhost:1313/publication/bdmp_wage_2019/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</guid>
+      <guid>http://localhost:1313/publication/bdmp_wage_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty-driven Business Cycles: Assessing the Markup Channel</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_markup_2019/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_markup_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty shocks in currency unions</title>
-      <link>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</link>
+      <link>http://localhost:1313/publication/bmp_uncertainty_union_2020/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</guid>
+      <guid>http://localhost:1313/publication/bmp_uncertainty_union_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The New Keynesian Wage Phillips Curve: Calvo vs. Rotemberg</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_wagepc_2018/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_wagepc_2018/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_wagepc_2018/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_wagepc_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different no more: Country spreads in advanced and emerging economies</title>
-      <link>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</link>
+      <link>http://localhost:1313/publication/bmpw_spreads_2020/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</guid>
+      <guid>http://localhost:1313/publication/bmpw_spreads_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Austerity Pay Off?</title>
-      <link>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</link>
+      <link>http://localhost:1313/publication/bmp_austerity_2019/</link>
       <pubDate>Fri, 01 May 2020 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</guid>
+      <guid>http://localhost:1313/publication/bmp_austerity_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk Matters: The Real Effects of Volatility Shocks: Comment</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_comment_2014/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_comment_2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_comment_2014/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_comment_2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Policy Risk and the Business Cycle</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_policyrisk_2014/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_policyrisk_2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_policyrisk_2014/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_policyrisk_2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiscal News and Macroeconomic Volatility</title>
-      <link>https://BenjaminBorn.github.io/publication/bpp_fiscalnews_2013/</link>
+      <link>http://localhost:1313/publication/bpp_fiscalnews_2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bpp_fiscalnews_2013/</guid>
+      <guid>http://localhost:1313/publication/bpp_fiscalnews_2013/</guid>
       <description></description>
     </item>
     

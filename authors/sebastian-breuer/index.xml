@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Breuer | Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/sebastian-breuer/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/sebastian-breuer/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/sebastian-breuer/</link>
+      <atom:link href="http://localhost:1313/authors/sebastian-breuer/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Breuer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sebastian Breuer</title>
-      <link>https://BenjaminBorn.github.io/authors/sebastian-breuer/</link>
+      <link>http://localhost:1313/authors/sebastian-breuer/</link>
     </image>
     
     <item>
       <title>Uncertainty and the Great Recession</title>
-      <link>https://BenjaminBorn.github.io/publication/bbe_unc_2018/</link>
+      <link>http://localhost:1313/publication/bbe_unc_2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbe_unc_2018/</guid>
+      <guid>http://localhost:1313/publication/bbe_unc_2018/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/admin/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Born</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Born</title>
-      <link>https://BenjaminBorn.github.io/authors/admin/</link>
+      <link>http://localhost:1313/authors/admin/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Benjamin Born is an associate professor of macroeconomics at the Frankfurt School of Finance &amp;amp; Management and a research fellow at the CEPR and CESifo. In addition, he serves as research director at the ifo Institute&amp;rsquo;s Center for Macroeconomics and Surveys and as an associate editor at the European Economic Review. He holds a Ph.D. in Economics from the University of Bonn.&lt;/p&gt;
+&lt;!-- 
+Full &lt;a href=&#34;http://localhost:1313/files/cv_born.pdf&#34;&gt;CV&lt;/a&gt;. --&gt;
+&lt;!-- &lt;strong&gt;Open Positions&lt;/strong&gt; (Deadline April 30): Postdoctoral Researchers in Frankfurt School&#39;s Centre for Central Banking:  &lt;a href=&#34;https://apply.interfolio.com/120066&#34;&gt;More Info &lt;/a&gt;. --&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

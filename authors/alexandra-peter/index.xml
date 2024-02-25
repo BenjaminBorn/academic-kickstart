@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandra Peter | Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/alexandra-peter/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/alexandra-peter/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/alexandra-peter/</link>
+      <atom:link href="http://localhost:1313/authors/alexandra-peter/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandra Peter</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Alexandra Peter</title>
-      <link>https://BenjaminBorn.github.io/authors/alexandra-peter/</link>
+      <link>http://localhost:1313/authors/alexandra-peter/</link>
     </image>
     
     <item>
       <title>Fiscal News and Macroeconomic Volatility</title>
-      <link>https://BenjaminBorn.github.io/publication/bpp_fiscalnews_2013/</link>
+      <link>http://localhost:1313/publication/bpp_fiscalnews_2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bpp_fiscalnews_2013/</guid>
+      <guid>http://localhost:1313/publication/bpp_fiscalnews_2013/</guid>
       <description></description>
     </item>
     

@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gernot J. Müller | Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/gernot-j.-muller/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/gernot-j.-muller/</link>
+      <atom:link href="http://localhost:1313/authors/gernot-j.-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Gernot J. Müller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Gernot J. Müller</title>
-      <link>https://BenjaminBorn.github.io/authors/gernot-j.-muller/</link>
+      <link>http://localhost:1313/authors/gernot-j.-muller/</link>
     </image>
     
     <item>
+      <title>Firm Expectations and News: Micro v Macro</title>
+      <link>http://localhost:1313/publication/bemmn_micromacronews_2021/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bemmn_micromacronews_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mr. Keynes meets the Classics: Government Spending and the Real Exchange Rate</title>
-      <link>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</link>
+      <link>http://localhost:1313/publication/bdmp_wage_2019/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</guid>
+      <guid>http://localhost:1313/publication/bdmp_wage_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On FIRE, news, and expectations</title>
-      <link>https://BenjaminBorn.github.io/publication/bem_fire_handbook_2023/</link>
+      <link>http://localhost:1313/publication/bem_fire_handbook_2023/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bem_fire_handbook_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Firm Expectations and News: Micro v Macro</title>
-      <link>https://BenjaminBorn.github.io/publication/bemmn_micromacronews_2021/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bemmn_micromacronews_2021/</guid>
+      <guid>http://localhost:1313/publication/bem_fire_handbook_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
-      <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
+      <link>http://localhost:1313/publication/bblm_covid_2020/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
+      <guid>http://localhost:1313/publication/bblm_covid_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firm expectations about production and prices: Facts, determinants, and effects</title>
-      <link>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</link>
+      <link>http://localhost:1313/publication/bemn_firmsurveys_2021/</link>
       <pubDate>Mon, 31 Jan 2022 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</guid>
+      <guid>http://localhost:1313/publication/bemn_firmsurveys_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The lockdown effect: A counterfactual for Sweden</title>
-      <link>https://BenjaminBorn.github.io/publication/bdm_lockdown_2021/</link>
+      <link>http://localhost:1313/publication/bdm_lockdown_2021/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bdm_lockdown_2021/</guid>
+      <guid>http://localhost:1313/publication/bdm_lockdown_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Macroeconomic Impact of Trump</title>
-      <link>https://BenjaminBorn.github.io/publication/bmss_trump_2021/</link>
+      <link>http://localhost:1313/publication/bmss_trump_2021/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmss_trump_2021/</guid>
+      <guid>http://localhost:1313/publication/bmss_trump_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty shocks in currency unions</title>
-      <link>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</link>
+      <link>http://localhost:1313/publication/bmp_uncertainty_union_2020/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</guid>
+      <guid>http://localhost:1313/publication/bmp_uncertainty_union_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different no more: Country spreads in advanced and emerging economies</title>
-      <link>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</link>
+      <link>http://localhost:1313/publication/bmpw_spreads_2020/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</guid>
+      <guid>http://localhost:1313/publication/bmpw_spreads_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Austerity Pay Off?</title>
-      <link>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</link>
+      <link>http://localhost:1313/publication/bmp_austerity_2019/</link>
       <pubDate>Fri, 01 May 2020 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</guid>
+      <guid>http://localhost:1313/publication/bmp_austerity_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Costs of Economic Nationalism: Evidence from the Brexit Experiment</title>
-      <link>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</link>
+      <link>http://localhost:1313/publication/bmss_brexit_2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</guid>
+      <guid>http://localhost:1313/publication/bmss_brexit_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exchange Rate Regimes and Fiscal Multipliers</title>
-      <link>https://BenjaminBorn.github.io/publication/bjm_fx_2013/</link>
+      <link>http://localhost:1313/publication/bjm_fx_2013/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bjm_fx_2013/</guid>
+      <guid>http://localhost:1313/publication/bjm_fx_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Government Spending Shocks in Quarterly and Annual Time Series</title>
-      <link>https://BenjaminBorn.github.io/publication/bornmueller_qva_2012/</link>
+      <link>http://localhost:1313/publication/bornmueller_qva_2012/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornmueller_qva_2012/</guid>
+      <guid>http://localhost:1313/publication/bornmueller_qva_2012/</guid>
       <description></description>
     </item>
     

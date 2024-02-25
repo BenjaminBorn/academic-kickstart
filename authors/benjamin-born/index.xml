@@ -2,277 +2,277 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Born</title>
-    <link>https://BenjaminBorn.github.io/authors/benjamin-born/</link>
-      <atom:link href="https://BenjaminBorn.github.io/authors/benjamin-born/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/benjamin-born/</link>
+      <atom:link href="http://localhost:1313/authors/benjamin-born/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Born</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Born</title>
-      <link>https://BenjaminBorn.github.io/authors/benjamin-born/</link>
+      <link>http://localhost:1313/authors/benjamin-born/</link>
     </image>
     
     <item>
+      <title>Firm Expectations and News: Micro v Macro</title>
+      <link>http://localhost:1313/publication/bemmn_micromacronews_2021/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bemmn_micromacronews_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shocks, Frictions, and Inequality in US Business Cycles</title>
-      <link>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</link>
+      <link>http://localhost:1313/publication/bbl_inequality_2020/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbl_inequality_2020/</guid>
+      <guid>http://localhost:1313/publication/bbl_inequality_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mr. Keynes meets the Classics: Government Spending and the Real Exchange Rate</title>
-      <link>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</link>
+      <link>http://localhost:1313/publication/bdmp_wage_2019/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bdmp_wage_2019/</guid>
+      <guid>http://localhost:1313/publication/bdmp_wage_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On FIRE, news, and expectations</title>
-      <link>https://BenjaminBorn.github.io/publication/bem_fire_handbook_2023/</link>
+      <link>http://localhost:1313/publication/bem_fire_handbook_2023/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bem_fire_handbook_2023/</guid>
+      <guid>http://localhost:1313/publication/bem_fire_handbook_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monetary Policy in the Age of Social Media: A Twitter-Based Inflation Analysis</title>
-      <link>https://BenjaminBorn.github.io/publication/bdls_inflationtwitter_2023/</link>
+      <link>http://localhost:1313/publication/bdls_inflationtwitter_2023/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bdls_inflationtwitter_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Firm Expectations and News: Micro v Macro</title>
-      <link>https://BenjaminBorn.github.io/publication/bemmn_micromacronews_2021/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bemmn_micromacronews_2021/</guid>
+      <guid>http://localhost:1313/publication/bdls_inflationtwitter_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unconventional Fiscal Policy at Work</title>
-      <link>https://BenjaminBorn.github.io/publication/bbgklw_ufpatwork_2023/</link>
+      <link>http://localhost:1313/publication/bbgklw_ufpatwork_2023/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbgklw_ufpatwork_2023/</guid>
+      <guid>http://localhost:1313/publication/bbgklw_ufpatwork_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expectation dispersion, uncertainty, and the reaction to news</title>
-      <link>https://BenjaminBorn.github.io/publication/bde_news_2020/</link>
+      <link>http://localhost:1313/publication/bde_news_2020/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bde_news_2020/</guid>
+      <guid>http://localhost:1313/publication/bde_news_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Temporary VAT Cut as Unconventional Fiscal Policy</title>
-      <link>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</link>
+      <link>http://localhost:1313/publication/bbgklw_ufp_2021/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbgklw_ufp_2021/</guid>
+      <guid>http://localhost:1313/publication/bbgklw_ufp_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Liquidity Channel of Fiscal Policy</title>
-      <link>https://BenjaminBorn.github.io/publication/bbl_fiscal_2021/</link>
+      <link>http://localhost:1313/publication/bbl_fiscal_2021/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbl_fiscal_2021/</guid>
+      <guid>http://localhost:1313/publication/bbl_fiscal_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Coronavirus Stimulus Package: How large is the transfer multiplier?</title>
-      <link>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</link>
+      <link>http://localhost:1313/publication/bblm_covid_2020/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bblm_covid_2020/</guid>
+      <guid>http://localhost:1313/publication/bblm_covid_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inclusive Monetary Policy: How Tight Labor Markets Facilitate Broad-Based Employment Growth</title>
-      <link>https://BenjaminBorn.github.io/publication/bbmw_inclusivemp_2022/</link>
+      <link>http://localhost:1313/publication/bbmw_inclusivemp_2022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbmw_inclusivemp_2022/</guid>
+      <guid>http://localhost:1313/publication/bbmw_inclusivemp_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firm expectations about production and prices: Facts, determinants, and effects</title>
-      <link>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</link>
+      <link>http://localhost:1313/publication/bemn_firmsurveys_2021/</link>
       <pubDate>Mon, 31 Jan 2022 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bemn_firmsurveys_2021/</guid>
+      <guid>http://localhost:1313/publication/bemn_firmsurveys_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The lockdown effect: A counterfactual for Sweden</title>
-      <link>https://BenjaminBorn.github.io/publication/bdm_lockdown_2021/</link>
+      <link>http://localhost:1313/publication/bdm_lockdown_2021/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bdm_lockdown_2021/</guid>
+      <guid>http://localhost:1313/publication/bdm_lockdown_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Macroeconomic Impact of Trump</title>
-      <link>https://BenjaminBorn.github.io/publication/bmss_trump_2021/</link>
+      <link>http://localhost:1313/publication/bmss_trump_2021/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmss_trump_2021/</guid>
+      <guid>http://localhost:1313/publication/bmss_trump_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty-driven Business Cycles: Assessing the Markup Channel</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_markup_2019/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_markup_2019/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_markup_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty shocks in currency unions</title>
-      <link>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</link>
+      <link>http://localhost:1313/publication/bmp_uncertainty_union_2020/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</guid>
+      <guid>http://localhost:1313/publication/bmp_uncertainty_union_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The New Keynesian Wage Phillips Curve: Calvo vs. Rotemberg</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_wagepc_2018/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_wagepc_2018/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_wagepc_2018/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_wagepc_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different no more: Country spreads in advanced and emerging economies</title>
-      <link>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</link>
+      <link>http://localhost:1313/publication/bmpw_spreads_2020/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</guid>
+      <guid>http://localhost:1313/publication/bmpw_spreads_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Austerity Pay Off?</title>
-      <link>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</link>
+      <link>http://localhost:1313/publication/bmp_austerity_2019/</link>
       <pubDate>Fri, 01 May 2020 21:56:04 +0100</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmp_austerity_2019/</guid>
+      <guid>http://localhost:1313/publication/bmp_austerity_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Costs of Economic Nationalism: Evidence from the Brexit Experiment</title>
-      <link>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</link>
+      <link>http://localhost:1313/publication/bmss_brexit_2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmss_brexit_2019/</guid>
+      <guid>http://localhost:1313/publication/bmss_brexit_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-Varying Business Volatility and the Price Setting of Firms</title>
-      <link>https://BenjaminBorn.github.io/publication/bbeg_firmunc_2019/</link>
+      <link>http://localhost:1313/publication/bbeg_firmunc_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbeg_firmunc_2019/</guid>
+      <guid>http://localhost:1313/publication/bbeg_firmunc_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertainty and the Great Recession</title>
-      <link>https://BenjaminBorn.github.io/publication/bbe_unc_2018/</link>
+      <link>http://localhost:1313/publication/bbe_unc_2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bbe_unc_2018/</guid>
+      <guid>http://localhost:1313/publication/bbe_unc_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing for Serial Correlation in Fixed-Effects Panel Data Models</title>
-      <link>https://BenjaminBorn.github.io/publication/bornbreitung_serialcorr_2016/</link>
+      <link>http://localhost:1313/publication/bornbreitung_serialcorr_2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornbreitung_serialcorr_2016/</guid>
+      <guid>http://localhost:1313/publication/bornbreitung_serialcorr_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recursive Adjustment for General Deterministic Components and Improved Tests for the Cointegration Rank</title>
-      <link>https://BenjaminBorn.github.io/publication/borndemetrescu_coint_2015/</link>
+      <link>http://localhost:1313/publication/borndemetrescu_coint_2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/borndemetrescu_coint_2015/</guid>
+      <guid>http://localhost:1313/publication/borndemetrescu_coint_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk Matters: The Real Effects of Volatility Shocks: Comment</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_comment_2014/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_comment_2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_comment_2014/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_comment_2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Policy Risk and the Business Cycle</title>
-      <link>https://BenjaminBorn.github.io/publication/bornpfeifer_policyrisk_2014/</link>
+      <link>http://localhost:1313/publication/bornpfeifer_policyrisk_2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornpfeifer_policyrisk_2014/</guid>
+      <guid>http://localhost:1313/publication/bornpfeifer_policyrisk_2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Central Bank Communication on Financial Stability</title>
-      <link>https://BenjaminBorn.github.io/publication/bef_fscom_2014/</link>
+      <link>http://localhost:1313/publication/bef_fscom_2014/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bef_fscom_2014/</guid>
+      <guid>http://localhost:1313/publication/bef_fscom_2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiscal News and Macroeconomic Volatility</title>
-      <link>https://BenjaminBorn.github.io/publication/bpp_fiscalnews_2013/</link>
+      <link>http://localhost:1313/publication/bpp_fiscalnews_2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bpp_fiscalnews_2013/</guid>
+      <guid>http://localhost:1313/publication/bpp_fiscalnews_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exchange Rate Regimes and Fiscal Multipliers</title>
-      <link>https://BenjaminBorn.github.io/publication/bjm_fx_2013/</link>
+      <link>http://localhost:1313/publication/bjm_fx_2013/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bjm_fx_2013/</guid>
+      <guid>http://localhost:1313/publication/bjm_fx_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communicating about Macroprudential Supervision - A New Challenge for Central Banks</title>
-      <link>https://BenjaminBorn.github.io/publication/bef_fscom_2012/</link>
+      <link>http://localhost:1313/publication/bef_fscom_2012/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bef_fscom_2012/</guid>
+      <guid>http://localhost:1313/publication/bef_fscom_2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Government Spending Shocks in Quarterly and Annual Time Series</title>
-      <link>https://BenjaminBorn.github.io/publication/bornmueller_qva_2012/</link>
+      <link>http://localhost:1313/publication/bornmueller_qva_2012/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornmueller_qva_2012/</guid>
+      <guid>http://localhost:1313/publication/bornmueller_qva_2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple Regression-based Tests for Spatial Dependence</title>
-      <link>https://BenjaminBorn.github.io/publication/bornbreitung_spatial_2011/</link>
+      <link>http://localhost:1313/publication/bornbreitung_spatial_2011/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bornbreitung_spatial_2011/</guid>
+      <guid>http://localhost:1313/publication/bornbreitung_spatial_2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Should Central Banks Deal with a Financial Stability Objective? The Evolving Role of Communication as a Policy Instrument</title>
-      <link>https://BenjaminBorn.github.io/publication/bef_fscom_handbook_2011/</link>
+      <link>http://localhost:1313/publication/bef_fscom_handbook_2011/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bef_fscom_handbook_2011/</guid>
+      <guid>http://localhost:1313/publication/bef_fscom_handbook_2011/</guid>
       <description></description>
     </item>
     
