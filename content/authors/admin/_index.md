@@ -77,10 +77,10 @@ email: ""
 ---
 
 Benjamin Born is an Associate Professor of Macroeconomics at the Frankfurt School of Finance & Management and a research fellow at the CEPR and CESifo. In addition, he serves as research director at the ifo Institute's Center for Macroeconomics and Surveys and as an associate editor at the European Economic Review. He holds a Ph.D. in Economics from the University of Bonn.
-<!-- 
-Full {{% staticref "files/cv_born.pdf" %}}CV{{% /staticref %}}. -->
- <strong>News</strong> 
- - We are establishing the Frankfurt School {{% staticref "https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking.html" %}}Centre for Central Banking{{% /staticref %}}
- - I've become program chair of the {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/55th-konstanz-seminar/" %}}Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}}
 
+ <strong>News</strong>
+  - Call for Papers: {{% staticref "files/call_frankfurt_macro_seminar_spring2024.pdf" %}} Spring 2024 Frankfurt Macro Seminar {{% /staticref %}}
+ - Frankfurt School launches {{% staticref "https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking.html" %}}Centre for Central Banking{{% /staticref %}}
+ - I'm co-organizing the {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/55th-konstanz-seminar/" %}}2024 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}}
+ 
 <!-- <strong>Open Positions</strong> (Deadline April 30): Postdoctoral Researchers in Frankfurt School's Centre for Central Banking:  {{% staticref "https://apply.interfolio.com/120066" %}}More Info {{% /staticref %}}. -->
