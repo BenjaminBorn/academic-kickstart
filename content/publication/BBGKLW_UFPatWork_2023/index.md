@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***AEA Papers & Proceedings***, 113, pp. 61-64"
+publication: "***AEA Papers & Proceedings***, 113, pp. 61--64"
 publication_short: ""
 
 abstract: "In an effort to stabilize the economy during the Covid-19 pandemic, the German government reduced value added taxes (VAT) by three percentage points for a period of six months in the latter half of 2020. This measure resulted in a boost in aggregate consumer spending on both durable and semi-durable goods during the six-month period, with spending decreasing once the VAT reduction was reversed. The effect of the temporary VAT cut on durable spending was stronger than on semi-durable spending. Additionally, the temporary VAT cut also stabilized, and even slightly increased, inflation expectations in the second half of 2020."

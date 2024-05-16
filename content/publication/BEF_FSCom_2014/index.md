@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Economic Journal***, 124(577), pp. 701-734"
+publication: "***Economic Journal***, 124(577), pp. 701--734"
 publication_short: ""
 
 abstract: "Central banks regularly communicate about financial stability issues. This article asks how such communications affect financial markets, based on a unique dataset covering more than 1,000 releases of Financial Stability Reports (FSRs) and speeches by 37 central banks over the past 14 years. The findings suggest that optimistic FSRs lead to significant and potentially long-lasting positive abnormal stock market returns, whereas no such effect is found for pessimistic FSRs. Speeches and interviews, in contrast, have smaller effects on market returns during tranquil times but have been influential during the 2007–10 global financial crisis."

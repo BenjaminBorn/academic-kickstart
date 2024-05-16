@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Monetary Economics***, 134, pp. 86-117"
+publication: "***Journal of Monetary Economics***, 134, pp. 86--117"
 publication_short: ""
 
 abstract: "Expansionary fiscal policy lowers the return difference between public debt and less liquid assets - the liquidity premium. We rationalize this finding in an estimated heterogeneous-agent New-Keynesian model with incomplete markets and portfolio choice, in which public debt affects private liquidity.  This liquidity channel stabilizes fixed-capital investment. We then quantify the long-run effects of higher public debt and find little crowding out of capital, but a sizable decline of the liquidity premium, which increases the fiscal burden of debt. The revenue-maximizing level of public debt is positive and has increased to 60 percent of US GDP post-2010."

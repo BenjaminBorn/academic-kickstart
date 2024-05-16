@@ -16,7 +16,7 @@ publishDate: 2019-11-01T21:56:04+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Review of Economics and Statistics***, 102(2), pp. 323–338"
+publication: "***Review of Economics and Statistics***, 102(2), pp. 323--338"
 publication_short: ""
 
 abstract: "We investigate empirically how fiscal shocks—unanticipated and exogenous changes of government consumption growth—impact the sovereign default premium. For this purpose we assemble a new data set for 38 emerging and developed economies. It contains approximately 3,000 observations for the sovereign default premium and three alternative measures of fiscal shocks. We condition our estimates on a) whether shocks are positive or negative and b) initial conditions in terms of fiscal stress. An increase of government consumption hardly affects the default premium. A reduction raises the premium if fiscal stress is severe, but decreases it if initial conditions are benign."

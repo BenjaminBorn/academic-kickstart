@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Quantitative Economics***, 12(2), pp. 587-623"
+publication: "***Quantitative Economics***, 12(2), pp. 587--623"
 publication_short: ""
 
 abstract: "Precautionary pricing and increasing markups in representative-agent DSGE models with nominal rigidities are commonly used to generate negative output effects of uncertainty shocks. We assess whether this theoretical model channel is consistent with the data. Three things stand out. First, consistent with precautionary wage setting, we find that wage markups increase after uncertainty shocks. Second, the impulse responses of price markups are largely inconsistent with the standard model, both at the aggregate as well as the industry level. Finally, and in contrast to times-series evidence, our theoretical model robustly predicts that uncertainty shocks have a quantitatively small impact on the economy."

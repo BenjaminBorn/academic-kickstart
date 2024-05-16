@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***American Economic Review***, 104(12), pp. 4231-4239"
+publication: "***American Economic Review***, 104(12), pp. 4231--4239"
 publication_short: ""
 
 abstract: "We show that the risk-shock business cycle model of Fernández-Villaverde et al. (2011) must be recalibrated because it underpredicts the targeted business cycle moments by a factor of three once a time aggregation error is corrected. Recalibrating the corrected model for the benchmark case of Argentina, the peak response and the contribution of interest rate risk shocks to business cycle volatility increase. However, the recalibrated model does worse in capturing the business cycle properties of net exports once an additional error in the computation of net exports is corrected."
@@ -35,11 +35,9 @@ links:
   url: "http://dx.doi.org/10.1257/aer.104.12.4231"
 - name: Ungated
   url: "http://www.cesifo-group.de/DocDL/cesifo1_wp4793.pdf"
-- name: Codes
-  url: "https://github.com/JohannesPfeifer/DSGE_mod/tree/master/Born_Pfeifer_2014"
 
 url_pdf:
-url_code:
+url_code: "https://github.com/JohannesPfeifer/DSGE_mod/tree/master/Born_Pfeifer_2014"
 url_dataset:
 url_poster:
 url_project:

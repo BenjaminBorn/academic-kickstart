@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Monetary Economics***, 68, pp. 68-85"
+publication: "***Journal of Monetary Economics***, 68, pp. 68--85"
 publication_short: ""
 
 abstract: "The argument that uncertainty about monetary and fiscal policy has been holding back the recovery in the U.S. during the Great Recession has a large popular appeal. This paper uses an estimated New Keynesian model to analyze the role of policy risk in explaining business cycles. We directly measure risk from aggregate data and find a moderate amount of time-varying policy risk. The 'pure uncertainty' effect of this policy risk is unlikely to play a major role in business cycle fluctuations. In the estimated model, output effects are relatively small because policy risk shocks are (i) too small and (ii) not sufficiently amplified."

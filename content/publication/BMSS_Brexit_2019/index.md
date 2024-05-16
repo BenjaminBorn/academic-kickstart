@@ -39,7 +39,7 @@ links:
   url: "http://voxeu.org/article/300-million-week-output-cost-brexit-vote"
 
 url_pdf:
-url_code:
+url_code: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ej/129/623/10.1093_ej_uez020/5/uez020_replication_materials.zip?Expires=1717572428&Signature=2BTD2~2Bbx12pC-5kPaQlhsrZhpGecdTkqBTskajrmyMIkONfbN3zoOW2bKAjNzw0bKwEeCxtosVMOod~ltmM54R7LdaSHBPK~brAOI6s5-FTN6q35qW3NAbl9v9FPWV6oEtO0bLWuf6MYg7J~cK8QsghcMD~a0krfKpqxYGE7BO5WLa52zO-nbkNUrCgGMcaazJ65SVPSttdGAYFFlouIpZlJ5WheQ978QPdHcfOROX8b0TRcZvUVpejxx~k6Gudk8pOajpoyX2qx~rsZdpWcrae3Im25bXdIz8qGtvPjgWJZUMWp1ItGRlGWesRhxnw87UqYubFoNg3~qkwzVNgQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 url_dataset:
 url_poster:
 url_project:

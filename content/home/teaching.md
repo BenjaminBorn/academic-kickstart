@@ -14,9 +14,9 @@ header:
   caption: ""
   image: ""
 ---
-#### Spring/Summer 2024
+#### Current Teaching
 
-* Macroeconomics (B.Sc.)
+* Macroeconomics (B.Sc. + Ph.D.)
 * Global Economy (Bocconi@FrankfurtSchool EMBA)
 * Advanced Management Program (Exec. Education)
 

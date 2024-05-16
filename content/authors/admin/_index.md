@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Macroeconomics
+role: Professor of Macroeconomics
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://www.frankfurt-school.de/en/home/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Benjamin Born is an Associate Professor of Macroeconomics at Frankfurt School of Finance & Management.
+bio: Benjamin Born is a Professor of Macroeconomics at Frankfurt School of Finance & Management.
 
 interests:
 - Business Cycles
@@ -76,11 +76,12 @@ email: ""
 # - Visitors -->
 ---
 
-Benjamin Born is an Associate Professor of Macroeconomics at the Frankfurt School of Finance & Management and a research fellow at the CEPR and CESifo. In addition, he serves as research director at the ifo Institute's Center for Macroeconomics and Surveys and as an associate editor at the European Economic Review. He holds a Ph.D. in Economics from the University of Bonn.
+Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Finance & Management---where he is affiliated with the {{% staticref "https://www.frankfurt-school.de/en/home/research/centres/centre-for-central-banking" %}}Centre for Central Banking{{% /staticref %}}---and a research fellow at the CEPR and CESifo. In addition, he currently serves as a research director at the ifo Institute's Center for Macroeconomics and Surveys, an external consultant at the EU Commission's DG ECFIN, and as an associate editor at the European Economic Review. He holds a Ph.D. in Economics from the Bonn Graduate School of Economics.
 
  <strong>News</strong>
-  - Call for Papers: {{% staticref "files/call_frankfurt_macro_seminar_spring2024.pdf" %}} Spring 2024 Frankfurt Macro Seminar {{% /staticref %}}
- - Frankfurt School launches {{% staticref "https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking.html" %}}Centre for Central Banking{{% /staticref %}}
- - I'm co-organizing the {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/55th-konstanz-seminar/" %}}2024 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}}
+- I'm co-organizing the following conferences this year
+    + {{% staticref "files/Program_FMS.pdf" %}} Spring 2024 Frankfurt Macro Seminar {{% /staticref %}} (program)
+    + {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/55th-konstanz-seminar/" %}}2024 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}} (program)
+    + {{% staticref "https://www.ifo.de/en/event/2024-12-05/14th-ifo-conference-macroeconomics-and-survey-data" %}}14th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (call for papers)
  
 <!-- <strong>Open Positions</strong> (Deadline April 30): Postdoctoral Researchers in Frankfurt School's Centre for Central Banking:  {{% staticref "https://apply.interfolio.com/120066" %}}More Info {{% /staticref %}}. -->

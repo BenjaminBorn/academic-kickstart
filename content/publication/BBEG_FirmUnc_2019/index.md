@@ -16,7 +16,7 @@ publishDate: 2019-01-31
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Monetary Economics***, 101, pp. 82-99"
+publication: "***Journal of Monetary Economics***, 101, pp. 82--99"
 publication_short: ""
 
 abstract: "Does time-varying business uncertainty/volatility affect the price setting of firms and in what way? We estimate from the micro data of the German ifo Business Climate Survey the impact of idiosyncratic volatility on the extensive margin of firm-level price setting behavior. Heightened uncertainty increases the probability of a price change, suggesting that, for price setting, the volatility effect dominates the 'wait-and-see' effect. In a second step, we use structural vector autoregressions to estimate the effects of uncertainty on the intensive pricing margin. Higher uncertainty leads to an increase in price dispersion and to larger price adjustments."
