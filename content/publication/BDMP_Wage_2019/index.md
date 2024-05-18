@@ -3,7 +3,7 @@
 
 title: "Mr. Keynes meets the Classics: Government Spending and the Real Exchange Rate"
 authors: ["Benjamin Born", "Francesco D’Ascanio", "Gernot J. Müller", "Johannes Pfeifer"]
-date: 2024-05-17
+date: 2024-05-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Journal of Political Economy***, forthcoming"
+publication: "***Journal of Political Economy***, 132(5), pp. 1642--1683"
 publication_short: ""
 
 abstract: "In economies with fixed exchange rates, the adjustment to government spending shocks is asymmetric. Expansionary shocks are absorbed by the real exchange rate, contractionary shocks by output. This result emerges in a small open economy model with downward nominal wage rigidity and is supported by new empirical evidence based on panel data from different exchange-rate regimes. The exchange-rate regime, economic slack, inflation, and how spending is financed all matter for the fiscal transmission mechanism in the way predicted by the model. Estimates that fail to distinguish between the effects of positive and negative shocks are subject to a ''depreciation bias''."

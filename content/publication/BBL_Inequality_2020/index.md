@@ -3,7 +3,7 @@
 
 title: "Shocks, Frictions, and Inequality in US Business Cycles"
 authors: ["Christian Bayer", "Benjamin Born", "Ralph Luetticke"]
-date: 2024-05-01
+date: 2024-05-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
