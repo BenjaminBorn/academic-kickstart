@@ -3,7 +3,7 @@
 
 title: "Inclusive Monetary Policy: How Tight Labor Markets Facilitate Broad-Based Employment Growth"
 authors: ["Nittai K. Bergman", "Benjamin Born", "David Matsa", "Michael Weber"]
-date: 2022-12-09
+date: 2024-08-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication: ""
 publication_short: ""
 
 abstract: "
-This paper analyzes the heterogeneous effects of monetary policy on workers with differing levels of labor force attachment. Exploiting variation in labor market tightness across metropolitan areas, we show that the employment of populations with lower labor force attachment---Blacks, high school dropouts, and women---is more responsive to expansionary monetary policy in tighter labor markets. The effect builds up over time and is long lasting. We develop a New Keynesian model with heterogeneous workers that rationalizes these results. The model shows that expansionary monetary shocks lead to larger increases in the employment of less attached workers when the central bank follows an average inflation targeting rule and when the Phillips curve is flatter. These findings suggest that, by tightening labor markets, the Federal Reserve’s recent move from a strict to an average inflation targeting framework especially benefits workers with lower labor force attachment."
+This paper analyzes the heterogeneous effects of monetary policy on workers with differing levels of labor-force attachment. Exploiting variation in labor market tightness across metropolitan areas, we show the employment of populations with lower labor-force attachment—Blacks, high school dropouts, and women—is more responsive to expansionary monetary policy in tighter labor markets. The effect builds up over time and is long-lasting. We replicate these results in a New Keynesian model with heterogeneous workers. In the model, expansionary monetary shocks lead to larger increases in the employment of less attached workers when the central bank follows a more dovish monetary policy and when the Phillips curve is flatter. These findings suggest that a more hawkish monetary policy especially hurts the employment prospects of workers with lower labor force attachment."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -32,10 +32,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: Published Version
-#   url: "https://doi.org/10.1162/rest_a_00844"
-- name: Working Paper
-  url: files/BBMW_Inclusive_MonPol_Dec2022.pdf
+- name: NBER WP29651
+  url: "https://www.nber.org/papers/w29651"
+- name: Ungated
+  url: files/BBMW_Inclusive_MonPol_Aug2024.pdf
 # - name: Fiscal Shock Series
 #- name: Earlier CEPR DP10425
 #  url: "http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10425"
