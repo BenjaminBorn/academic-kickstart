@@ -76,12 +76,12 @@ email: ""
 # - Visitors -->
 ---
 
-Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Finance & Management---where he is affiliated with the {{% staticref "https://www.frankfurt-school.de/en/home/research/centres/centre-for-central-banking" %}}Centre for Central Banking{{% /staticref %}}---and a research fellow at the CEPR and CESifo. In addition, he currently serves as a research director at the ifo Institute's Center for Macroeconomics and Surveys, an external consultant at the EU Commission's DG ECFIN, and as an associate editor at the European Economic Review. He holds a Ph.D. in Economics from the Bonn Graduate School of Economics.
+Benjamin Born is Professor of Macroeconomics at the Frankfurt School of Finance & Management and Research Director at the ifo Institute's Center for Macroeconomics and Surveys. He is also a research fellow with CEPR and CESifo. Currently, he serves as an external consultant to the EU Commission's Directorate-General for Economic and Financial Affairs (DG ECFIN) and as a member of the European Parliament’s Monetary Expert Panel. Additionally, he contributes as an Associate Editor at the European Economic Review. He holds a Ph.D. in Economics from the Bonn Graduate School of Economics.
 
  <strong>News</strong>
 - I'm co-organizing the following conferences this year
-    + {{% staticref "files/Program_FMS.pdf" %}} Spring 2024 Frankfurt Macro Seminar {{% /staticref %}} (program)
+    + {{% staticref "files/Program_FMS_2024.pdf" %}} Fall 2024 Frankfurt Macro Seminar {{% /staticref %}} (program)
     + {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/55th-konstanz-seminar/" %}}2024 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}} (program)
-    + {{% staticref "https://www.ifo.de/en/event/2024-12-05/14th-ifo-conference-macroeconomics-and-survey-data" %}}14th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (call for papers)
+    + {{% staticref "https://www.ifo.de/en/event/2024-12-05/14th-ifo-conference-macroeconomics-and-survey-data" %}}14th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (program)
  
 <!-- <strong>Open Positions</strong> (Deadline April 30): Postdoctoral Researchers in Frankfurt School's Centre for Central Banking:  {{% staticref "https://apply.interfolio.com/120066" %}}More Info {{% /staticref %}}. -->
