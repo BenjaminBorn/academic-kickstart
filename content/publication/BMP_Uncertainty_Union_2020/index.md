@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Uncertainty shocks in currency unions"
-authors: ["Benjamin Born", "Gernot J. Müller", "Johannes Pfeifer"]
-date: 2020-12-15
+title: "Uncertainty in Monetary Unions"
+authors: ["Benjamin Born", "Luis Huxel", "Gernot J. Müller", "Johannes Pfeifer"]
+date: 2024-11-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Uncertainty shocks cause economic activity to contract and more so, if monetary policy is constrained by an effective lower bound on interest rates. In this paper, we investigate whether countries within currency unions are also particularly prone to suffer from the adverse effects of heightened uncertainty because they lack monetary independence. First, we estimate a Bayesian VAR on quarterly time series for Spain. We find that country-specific uncertainty shocks impact economic activity adversely. Second, we calibrate a DSGE model of a small open economy and show that it is able to account for the evidence. Finally, we show that currency-union membership strongly reduces the effects of uncertainty shocks because it anchors long-run expectations of the price level and thus alleviates precautionary price setting in the face of increased uncertainty."
+abstract: "A monetary union shapes how uncertainty impacts the economy: it does not alter the transmission of common uncertainty shocks, but significantly *dampens* the adverse effects of country-specific shocks. We establish this result based on time series data for 17 euro area countries and 13 countries with flexible exchange rates. To rationalize it, we propose a model of a monetary union where monetary policy responds to common shocks but not country-specific ones, as each member country is small. The union dampens the effect of country-specific shocks by providing a nominal anchor in the face of country-specific uncertainty, thereby eliminating price level risk."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP15579
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15579"
 - name: Ungated
-  url: files/BMP_Uncertainty_Union_Dec2020.pdf
+  url: files/BHMP_UncertaintyMonetaryUnion_Nov2024.pdf
 # - name: VoxEU
 #   url: "https://voxeu.org/article/impact-us-coronavirus-stimulus-package"
 
