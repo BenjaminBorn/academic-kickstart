@@ -76,7 +76,7 @@ email: ""
 # - Visitors -->
 ---
 
-Benjamin Born is Professor of Macroeconomics at the Frankfurt School of Finance & Management and Research Director at the ifo Institute's Center for Macroeconomics and Surveys. He is also a research fellow with CEPR and CESifo. Currently, he serves as an external consultant to the EU Commission's Directorate-General for Economic and Financial Affairs (DG ECFIN) and as a member of the European Parliament’s Monetary Expert Panel. Additionally, he contributes as an Associate Editor at the European Economic Review. He holds a Ph.D. in Economics from the Bonn Graduate School of Economics.
+Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Finance & Management and serves as Research Director at the ifo Institute's Center for Macroeconomics and Surveys. He is also affiliated as a research fellow with CEPR and CESifo. In addition, he consults for the EU Commission's DG ECFIN and contributes as a member of the European Parliament’s Monetary Expert Panel. Benjamin Born is an Associate Editor for the Journal of Monetary Economics and the European Economic Review. He earned his Ph.D. in Economics from the Bonn Graduate School of Economics.
 
  <strong>News</strong>
 - I'm co-organizing the following conferences this year
