@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Review of Economic Studies***, reject & resubmit"
+publication: "***Review of Economic Studies***, revise & resubmit"
 publication_short: ""
 
 abstract: "We exploit Germany's temporary three-percentage-point VAT cut in the second half of 2020 to study the spending response to unconventional fiscal policy. We use survey and scanner data on household consumption expenditures and their perceived pass-through of the tax change into prices and a HANK model to quantify the effects of this VAT policy. The survey and scanner data show that the temporary VAT reduction led to a relative increase in durable and, to a lesser extent, semi-durable spending for individuals with high perceived pass-through. According to the HANK model, the VAT policy increased total aggregate consumption spending by 4.3 percent on impact."
