@@ -15,7 +15,7 @@ role: Professor of Macroeconomics
 # Organizations/Affiliations
 organizations:
 - name: Economics & Law Department
-  url: "https://www.frankfurt-school.de/en/home/research/departments/economics"
+  url: "https://www.frankfurt-school.de/en/home/research/departments/economics-law"
 - name: Frankfurt School of Finance & Management
   url: "https://www.frankfurt-school.de/en/home/"
 
@@ -76,7 +76,7 @@ email: ""
 # - Visitors -->
 ---
 
-Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Finance & Management and serves as Research Director at the ifo Institute's Center for Macroeconomics and Surveys. He is also affiliated as a research fellow with CEPR and CESifo. In addition, he consults for the EU Commission's DG ECFIN and contributes as a member of the European Parliament’s Monetary Expert Panel. Benjamin Born is an Associate Editor for the Journal of Monetary Economics and the European Economic Review. He earned his Ph.D. in Economics from the Bonn Graduate School of Economics.
+Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Finance & Management and Research Director at the ifo Institute for Economic Research. He is also a research fellow at CEPR and CESifo. In addition, he is a consultant to the European Commission's DG ECFIN and a member of the European Parliament's Expert Group on Monetary Policy. Benjamin Born is on the editorial boards of the Journal of Monetary Economics and the European Economic Review. He received his Ph.D. in economics from the Bonn Graduate School of Economics.
 
  <strong>News</strong>
 - I'm co-organizing the following conferences this year
