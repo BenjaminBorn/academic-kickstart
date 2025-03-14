@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Inclusive Monetary Policy: How Tight Labor Markets Facilitate Broad-Based Employment Growth"
+title: "Who Feels the Boom? Labor Market Tightness and the Heterogeneous Employment Effects of Monetary Policy"
 authors: ["Nittai K. Bergman", "Benjamin Born", "David Matsa", "Michael Weber"]
-date: 2024-08-20
+date: 2025-03-14
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication: ""
 publication_short: ""
 
 abstract: "
-This paper analyzes the heterogeneous effects of monetary policy on workers with differing levels of labor-force attachment. Exploiting variation in labor market tightness across metropolitan areas, we show the employment of populations with lower labor-force attachment—Blacks, high school dropouts, and women—is more responsive to expansionary monetary policy in tighter labor markets. The effect builds up over time and is long-lasting. We replicate these results in a New Keynesian model with heterogeneous workers. In the model, expansionary monetary shocks lead to larger increases in the employment of less attached workers when the central bank follows a more dovish monetary policy and when the Phillips curve is flatter. These findings suggest that a more hawkish monetary policy especially hurts the employment prospects of workers with lower labor force attachment."
+This paper analyzes the heterogeneous effects of monetary policy on workers with differing levels of labor force attachment. Exploiting variation in labor market tightness across metropolitan areas, we show that the employment of populations with lower labor force attachment---Blacks, high school dropouts, and women---is more responsive to expansionary monetary policy in tighter labor markets. The effect builds up over time and is long-lasting. We illustrate these results in a New Keynesian model with heterogeneous workers and conclude that a hawkish monetary policy especially hurts the employment prospects of workers with lower labor force attachment."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,7 +35,7 @@ links:
 - name: NBER WP29651
   url: "https://www.nber.org/papers/w29651"
 - name: Ungated
-  url: files/BBMW_Inclusive_MonPol_Aug2024.pdf
+  url: files/BBMW_MonPol_Mar2025.pdf
 # - name: Fiscal Shock Series
 #- name: Earlier CEPR DP10425
 #  url: "http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=10425"
