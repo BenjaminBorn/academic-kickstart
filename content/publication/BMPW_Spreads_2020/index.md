@@ -3,7 +3,7 @@
 
 title: "Different no more: Country spreads in advanced and emerging economies"
 authors: ["Benjamin Born", "Gernot J. Müller", "Johannes Pfeifer", "Susanne Wellmann"]
-date: 2020-05-08
+date: 2025-03-28
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Interest-rate spreads fluctuate widely across time and countries. We characterize their behavior using some 3,200 quarterly observations for 21 advanced and 17 emerging economies since the early 1990s. Before the financial crisis, spreads are 10 times more volatile in emerging economies than in advanced economies. Since 2008, the behavior of spreads has converged across country groups, largely because it has adjusted in advanced economies. We also provide evidence on the transmission of spread shocks and find it similar across sample periods and country groups. Spread shocks have become a more important source of output fluctuations in advanced economies after 2008."
+abstract: "Interest rate spreads fluctuate widely across time and countries. They have been identified as a major driver of the business cycle in emerging market economies (EMEs). Since the global financial crisis, spreads in advanced market economies (AMEs) have been systematically higher and more volatile, resembling the patterns previously characteristic of EMEs. Comparing the periods before and after 2008, we find business cycles in AMEs now more closely resemble those in EMEs along several key dimensions. In the second part of the paper, we provide a structural interpretation of these changes through the lens of a small open economy business cycle model."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14392
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14392"
 - name: Ungated
-  url: files/BMPW_Spreads_May2020.pdf
+  url: files/BMPW_Spreads_March2025.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/country-spreads-advanced-and-emerging-economies"
 

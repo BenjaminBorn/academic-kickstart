@@ -80,8 +80,8 @@ Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Financ
 
  <strong>News</strong>
 - I'm co-organizing the following conferences this year
-    + {{% staticref "files/Program_FMS_2024.pdf" %}} Fall 2024 Frankfurt Macro Seminar {{% /staticref %}} (program)
-    + {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/55th-konstanz-seminar/" %}}2024 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}} (program)
-    + {{% staticref "https://www.ifo.de/en/event/2024-12-05/14th-ifo-conference-macroeconomics-and-survey-data" %}}14th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (program)
+    + {{% staticref "files/Program_FMS_Spring2025.pdf" %}} Spring 2025 Frankfurt Macro Seminar {{% /staticref %}} (program)
+    + {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/56th-konstanz-seminar/" %}}2025 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}} (program)
+    + {{% staticref "https://www.ifo.de/en/event/2025-10-17/15th-ifo-conference-macroeconomics-and-survey-data" %}}15th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (call for papers)
  
 <!-- <strong>Open Positions</strong> (Deadline April 30): Postdoctoral Researchers in Frankfurt School's Centre for Central Banking:  {{% staticref "https://apply.interfolio.com/120066" %}}More Info {{% /staticref %}}. -->
