@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Uncertainty in Monetary Unions"
+title: "Anchored in Troubled Waters: Monetary Unions and Uncertainty"
 authors: ["Benjamin Born", "Luis Huxel", "Gernot J. Müller", "Johannes Pfeifer"]
-date: 2024-11-20
+date: 2025-04-11
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "A monetary union shapes how uncertainty impacts the economy: it does not alter the transmission of common uncertainty shocks, but significantly *dampens* the adverse effects of country-specific shocks. We establish this result based on time series data for 17 euro area countries and 13 countries with flexible exchange rates. To rationalize it, we propose a model of a monetary union where monetary policy responds to common shocks but not country-specific ones, as each member country is small. The union dampens the effect of country-specific shocks by providing a nominal anchor in the face of country-specific uncertainty, thereby eliminating price level risk."
+abstract: "A monetary union shapes the impact of uncertainty on the economy: it does not alter the transmission of common uncertainty shocks, but significantly *dampens* the adverse effects of country-specific shocks. We establish this result based on time series data for 17 euro-area countries and 13 countries with flexible exchange rates. To rationalize it, we propose a model of a monetary union in which monetary policy responds to common shocks but not to country-specific ones, as each member country is small. The union dampens the effect of country-specific shocks by providing a nominal anchor in the face of country-specific uncertainty, thereby eliminating price level risk."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP15579
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15579"
 - name: Ungated
-  url: files/BHMP_UncertaintyMonetaryUnion_Nov2024.pdf
+  url: files/BHMP_AnchorUncertainty_Apr2025.pdf
 # - name: VoxEU
 #   url: "https://voxeu.org/article/impact-us-coronavirus-stimulus-package"
 
