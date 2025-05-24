@@ -79,9 +79,11 @@ email: ""
 Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Finance & Management and Research Director at the ifo Institute for Economic Research. He is also a research fellow at CEPR and CESifo. In addition, he is a consultant to the European Commission's DG ECFIN and a member of the European Parliament's Expert Group on Monetary Policy. Benjamin Born is on the editorial boards of the Journal of Monetary Economics and the European Economic Review. He received his Ph.D. in economics from the Bonn Graduate School of Economics.
 
  <strong>News</strong>
+- I will be joining the {{% staticref "https://www.econ.uni-bonn.de/en" %}}University of Bonn{{% /staticref %}} as Professor of Macroeconomics in September 2025.
 - I'm co-organizing the following conferences this year
+    + {{% staticref "files/Program_56th_Konstanz_Seminar_2025.pdf" %}}2025 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}} (program)
+    + {{% staticref "https://www.ifo.de/en/event/2025-10-17/15th-ifo-conference-macroeconomics-and-survey-data" %}}15th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (deadline passed)
+    + {{% staticref "https://www.ralphluetticke.com/files/tuebingen_hank_workshop.pdf" %}}Graduate Workshop on Heterogeneous Agent Macroeconomics{{% /staticref %}} (apply!)
     + {{% staticref "files/Program_FMS_Spring2025.pdf" %}} Spring 2025 Frankfurt Macro Seminar {{% /staticref %}} (program)
-    + {{% staticref "https://konstanzseminar.org/konstanz-seminar-on-monetary-theory-and-policy/56th-konstanz-seminar/" %}}2025 Konstanz Seminar on Monetary Theory and Monetary Policy{{% /staticref %}} (program)
-    + {{% staticref "https://www.ifo.de/en/event/2025-10-17/15th-ifo-conference-macroeconomics-and-survey-data" %}}15th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (call for papers)
  
 <!-- <strong>Open Positions</strong> (Deadline April 30): Postdoctoral Researchers in Frankfurt School's Centre for Central Banking:  {{% staticref "https://apply.interfolio.com/120066" %}}More Info {{% /staticref %}}. -->

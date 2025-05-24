@@ -16,9 +16,7 @@ header:
 ---
 #### Current Teaching
 
-* Macroeconomics (B.Sc. + Ph.D.)
-* Global Economy (Bocconi@FrankfurtSchool EMBA)
-* Advanced Management Program (Exec. Education)
+* Macroeconomics II (first-year Ph.D. course at {{% staticref "https://www.econ.uni-bonn.de/bgse/en" %}}BGSE{{% /staticref %}})
 
 #### Past Teaching
 

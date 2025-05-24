@@ -32,11 +32,11 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: CEPR DP15579
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15579"
+  url: "https://cepr.org/publications/dp15579"
 - name: Ungated
   url: files/BHMP_AnchorUncertainty_Apr2025.pdf
-# - name: VoxEU
-#   url: "https://voxeu.org/article/impact-us-coronavirus-stimulus-package"
+- name: VoxEU
+  url: "https://cepr.org/voxeu/columns/anchored-troubled-waters-why-economic-and-monetary-union-membership-less-bad-you"
 
 url_pdf:
 url_code:
