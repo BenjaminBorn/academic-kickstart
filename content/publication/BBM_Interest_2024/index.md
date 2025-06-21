@@ -3,7 +3,7 @@
 
 title: "The impact of interest: Firms' investment sensitivity to interest rates"
 authors: ["Lea Best", "Benjamin Born", "Manuel Menkhoff"]
-date: 2024-11-06
+date: 2025-06-21
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We use a novel survey approach with hypothetical vignettes to analyze firms' investment sensitivity to interest rates, allowing us to causally identify firms' investment adjustments in response to various changes in lending rates. In a large survey of German firms, we find a semi-elasticity of investment of 7 percent---a quarter of the total impact of monetary policy on corporate investment. The average response is driven by a substantial fraction of non-adjusters---mainly due to high cash buffers and a lack of investment opportunities---and a significant intensive margin conditional on adjustment. Using direct survey measures, we find particularly strong effects for financially constrained firms and firms facing labor shortages. Finally, we establish a first-order importance of the (partial equilibrium) interest rate channel effect for aggregate investment dynamics."
+abstract: "We use a novel survey approach with hypothetical vignettes to analyze firms' investment sensitivity to interest rates, allowing us to causally identify firms' investment adjustments in response to various changes in lending rates. In a large survey of German firms, we find a semi-elasticity of investment of 7 percent---about half the total impact of monetary policy on corporate investment. The average response is driven by a substantial fraction of non-adjusters---mainly due to high cash buffers and a lack of investment opportunities---and a significant intensive margin conditional on adjustment. Using direct survey measures, we find particularly strong effects for financially constrained firms and firms facing labor shortages. Finally, we establish a first-order importance of the (partial equilibrium) interest rate channel effect for aggregate investment dynamics."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ links:
 # - name: CEPR DP17768
 #   url: "https://cepr.org/publications/dp17768"
 - name: Ungated
-  url: files/BBM_Interest_Nov2024.pdf
+  url: files/BBM_Interest_Jun2025.pdf
 # - name: VoxEU
 #   url: "https://cepr.org/voxeu/columns/island-illusion-how-firms-react-news"
 
