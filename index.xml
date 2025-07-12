@@ -5,12 +5,20 @@
     <link>https://BenjaminBorn.github.io/</link>
       <atom:link href="https://BenjaminBorn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Born</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://BenjaminBorn.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Born</title>
       <link>https://BenjaminBorn.github.io/</link>
     </image>
+    
+    <item>
+      <title>Different no more: Country spreads in advanced and emerging economies</title>
+      <link>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The impact of interest: Firms&#39; investment sensitivity to interest rates</title>
@@ -41,14 +49,6 @@
       <link>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://BenjaminBorn.github.io/publication/bmp_uncertainty_union_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Different no more: Country spreads in advanced and emerging economies</title>
-      <link>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</link>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://BenjaminBorn.github.io/publication/bmpw_spreads_2020/</guid>
       <description></description>
     </item>
     
