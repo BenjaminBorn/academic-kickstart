@@ -3,7 +3,7 @@
 
 title: "Different no more: Country spreads in advanced and emerging economies"
 authors: ["Benjamin Born", "Gernot J. Müller", "Johannes Pfeifer", "Susanne Wellmann"]
-date: 2025-03-28
+date: 2025-07-13
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14392
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14392"
 - name: Ungated
-  url: files/BMPW_Spreads_March2025.pdf
+  url: files/BMPW_Spreads_July2025.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/country-spreads-advanced-and-emerging-economies"
 
