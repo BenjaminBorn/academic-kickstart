@@ -3,7 +3,7 @@
 
 title: "Firm Expectations and News: Micro v Macro"
 authors: ["Benjamin Born", "Zeno Enders", "Manuel Menkhoff", "Gernot J. Müller", "Knut Niemann"]
-date: 2025-05-15
+date: 2025-07-31
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ links:
 - name: CEPR DP17768
   url: "https://cepr.org/publications/dp17768"
 - name: Ungated
-  url: files/BEMMN_MicroMacroNews_May2025.pdf
+  url: files/BEMMN_MicroMacroNews_July2025.pdf
 - name: VoxEU
   url: "https://cepr.org/voxeu/columns/island-illusion-how-firms-react-news"
 

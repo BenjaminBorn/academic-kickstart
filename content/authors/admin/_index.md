@@ -76,10 +76,11 @@ email: ""
 # - Visitors -->
 ---
 
-Benjamin Born is a Professor of Macroeconomics at the Frankfurt School of Finance & Management and Research Director at the ifo Institute for Economic Research. He is also a research fellow at CEPR and CESifo. In addition, he is a consultant to the European Commission's DG ECFIN and a member of the European Parliament's Expert Group on Monetary Policy. Benjamin Born is on the editorial boards of the Journal of Monetary Economics and the European Economic Review. He received his Ph.D. in economics from the Bonn Graduate School of Economics.
+Benjamin Born is Professor of Macroeconomics at Frankfurt School of Finance & Management and Research Director at the ifo Institute. He is a Research Fellow at CEPR and CESifo, advises the European Commission’s DG ECFIN, serves on the European Parliament’s Expert Group on Monetary Policy, and sits on the CEPR–EABCN Euro Area Business Cycle Dating Committee. He is on the editorial boards of the *Journal of Monetary Economics* and the *European Economic Review*. He earned his PhD at the Bonn Graduate School of Economics.
 
  <strong>News</strong>
 - I will be joining the {{% staticref "https://www.econ.uni-bonn.de/en" %}}University of Bonn{{% /staticref %}} as Professor of Macroeconomics in September 2025.
+- I'm co-organizing the inaugural {{% staticref "https://www.diw.de/en/diw_01.c.969831.en/events/baseforhank_winter_school.html" %}}BASEforHANK Winterschool{{% /staticref %}} in December 2025.
 - I'm co-organizing the following conferences this year
     + {{% staticref "https://www.ifo.de/en/event/2025-10-17/15th-ifo-conference-macroeconomics-and-survey-data" %}}15th ifo Conference on Macroeconomics and Survey Data{{% /staticref %}} (deadline passed)
     + {{% staticref "https://www.ralphluetticke.com/files/tuebingen_hank_workshop.pdf" %}}Graduate Workshop on Heterogeneous Agent Macroeconomics{{% /staticref %}} (deadline passed)
